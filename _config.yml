@@ -1,7 +1,2 @@
 title : mistergough.com
-tagline: mistergough's blog
-author :
-  name : Simon Gough
-  email : mistergough@gmail.com
-  github : mistergough
-  twitter : mistergough
+permalinks: pretty
