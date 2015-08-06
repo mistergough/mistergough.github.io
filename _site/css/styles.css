@@ -1,7 +1,10 @@
 body {
   padding: 10% 25%;
   line-height: 1.4;
-  font-size: 1.4em; }
+  font-size: 1.3em; }
 
 a {
   color: #000; }
+
+h1 {
+  font-size: 2.4em; }
