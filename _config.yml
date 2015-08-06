@@ -1,5 +1,3 @@
-permalink: /:categories/:year/:month/:day/:title 
-highlighter: pygments
 title : mistergough.com
 tagline: mistergough's blog
 author :
@@ -7,11 +5,3 @@ author :
   email : mistergough@gmail.com
   github : mistergough
   twitter : mistergough
-production_url : http://mistergough.com
-archive_path: /archive.html
-categories_path : /categories.html
-tags_path : /tags.html
-comments :
-  provider : disqus
-  disqus :
-    short_name : mistergough
