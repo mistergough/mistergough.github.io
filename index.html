@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Test
+title: mistergough.com
 ---
+{% for post in paginator.posts %}
+<h1>{{ post.title }}</h1>
+{{ post.content }}
+{% endfor %}
 <h1>I wrote about:</h1>
 	<ul>
   		{% for post in site.posts %}
