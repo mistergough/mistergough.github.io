@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>mistergough.com</title>
+		<description>mistergough&#39;s blog</description>		
+		<link>http://mistergough.com</link>
+		<atom:link href="http://mistergough.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Principles and Architecture</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 23 Jul 2015 04:59:04 +0200</pubDate>
+				<link>http://mistergough.com/2015/07/23/principles-and-architecture.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2015/07/23/principles-and-architecture.html</guid>
+			</item>
+		
+			<item>
+				<title>Open Data Camp</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Mon, 23 Feb 2015 11:09:27 +0100</pubDate>
+				<link>http://mistergough.com/2015/02/23/open-data-camp.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2015/02/23/open-data-camp.html</guid>
+			</item>
+		
+			<item>
+				<title>Think Piece</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 15 Jan 2015 12:18:24 +0100</pubDate>
+				<link>http://mistergough.com/2015/01/15/think-piece.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2015/01/15/think-piece.html</guid>
+			</item>
+		
+			<item>
+				<title>Group Love</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Sun, 23 Nov 2014 11:20:16 +0100</pubDate>
+				<link>http://mistergough.com/2014/11/23/group-love.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/11/23/group-love.html</guid>
+			</item>
+		
+			<item>
+				<title>Learning Muscles</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 25 Sep 2014 13:26:19 +0200</pubDate>
+				<link>http://mistergough.com/2014/09/25/learning-muscles.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/09/25/learning-muscles.html</guid>
+			</item>
+		
+			<item>
+				<title>Common Sense</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 14 Aug 2014 11:29:04 +0200</pubDate>
+				<link>http://mistergough.com/2014/08/14/common-sense-2.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/08/14/common-sense-2.html</guid>
+			</item>
+		
+			<item>
+				<title>Economic Thinking</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 17 Jul 2014 07:28:07 +0200</pubDate>
+				<link>http://mistergough.com/2014/07/17/economic-thinking.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/07/17/economic-thinking.html</guid>
+			</item>
+		
+			<item>
+				<title>Design Units</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Tue, 08 Jul 2014 07:53:25 +0200</pubDate>
+				<link>http://mistergough.com/2014/07/08/design-units.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/07/08/design-units.html</guid>
+			</item>
+		
+			<item>
+				<title>Subtractive Value</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Fri, 04 Jul 2014 14:36:12 +0200</pubDate>
+				<link>http://mistergough.com/2014/07/04/subtractive-value.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/07/04/subtractive-value.html</guid>
+			</item>
+		
+			<item>
+				<title>Experiment and Strategy</title>
+				        
+				
+					<description>{&quot;options&quot;=&gt;{}}</description>
+				
+				<pubDate>Thu, 26 Jun 2014 06:24:09 +0200</pubDate>
+				<link>http://mistergough.com/2014/06/26/experiment-and-strategy.html</link>
+				<guid isPermaLink="true">http://mistergough.com/2014/06/26/experiment-and-strategy.html</guid>
+			</item>
+		
+	</channel>
+</rss>
