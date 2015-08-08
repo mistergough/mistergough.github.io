@@ -3,10 +3,10 @@ layout: default
 title: mistergough.com
 ---
 {% for post in paginator.posts %}
-<h1>{{ post.title }}</h1>
+<h2>{{ post.title }}</h2>
 {{ post.content }}
 {% endfor %}
-<h1>I wrote about:</h1>
+<h2>All Posts</h2>
 	<ul>
   		{% for post in site.posts %}
   		<li>
