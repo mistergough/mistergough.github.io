@@ -9,7 +9,8 @@ a {
 h1 {
   font-size: 1em;
   font-weight: normal;
-  margin: 1em 0 0.1em 0; }
+  margin: 1em 0 0.1em 0;
+  line-height: 1em; }
 
 h2 {
   font-size: 3.6em;
