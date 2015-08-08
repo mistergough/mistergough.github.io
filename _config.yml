@@ -3,3 +3,5 @@ permalinks: pretty
 name: mistergough.com
 description: mistergough's blog
 url: http://mistergough.com
+author:
+ name: mistergough
