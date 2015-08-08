@@ -3,11 +3,11 @@ xmlns="http://www.w3.org/2005/Atom">
 	
 	<title type="text" xml:lang="en">mistergough.com</title>
 	<link type="application/atom+xml" 
-href="http://mistergough.com/feed/" rel="self"/>
- 	<link type="text" href="http://mistergough.com" 
+href="http://mistergough.com//feed/" rel="self"/>
+ 	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2015-08-08T13:16:06+02:00</updated>
-	<id>http://mistergough.com</id>
+	<updated>2015-08-08T13:34:12+02:00</updated>
+	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
 	</author>
@@ -15,9 +15,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Principles and Architecture</title>
-		<link href="http://mistergough.com/2015/07/23/principles-and-architecture.html"/>
+		<link href="http://mistergough.com//2015/07/23/principles-and-architecture.html"/>
 		<updated>2015-07-23T04:59:04+02:00</updated>
-		<id>http://mistergough.com/2015/07/23/principles-and-architecture</id>
+		<id>http://mistergough.com//2015/07/23/principles-and-architecture</id>
 		<content type="html">&lt;p&gt;How do we build design principles into the deepest architecture of things, into the algorithms and mechanisms?&lt;/p&gt;
 &lt;p&gt;It goes deeper than an ethos or mission. Those things change, get re-evaluated. Good intent can be reduced to a veneer while the core values are dismantled and exploited. &lt;/p&gt;
 &lt;p&gt;But what if something couldn&#39;t exist at all without the complete set of design principles? Like a human body, every system present and functioning or no life at all. &lt;/p&gt;
@@ -27,9 +27,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Open Data Camp</title>
-		<link href="http://mistergough.com/2015/02/23/open-data-camp.html"/>
+		<link href="http://mistergough.com//2015/02/23/open-data-camp.html"/>
 		<updated>2015-02-23T11:09:27+01:00</updated>
-		<id>http://mistergough.com/2015/02/23/open-data-camp</id>
+		<id>http://mistergough.com//2015/02/23/open-data-camp</id>
 		<content type="html">&lt;p&gt;Last weekend I attended Open Data Camp in Winchester; my first ever &quot;Camp&quot;. As someone who works primarily in design, attending designey events for designers, I&#39;m not used to taking part in the more tech/data end of the events spectrum so I wanted to get my thoughts down.&lt;/p&gt;
 &lt;p&gt;I&#39;m not going to go into the format or general organisation of the weekend. To me it seemed to go pretty smoothly. I knew where to be, when, and I got plenty to eat. We never ran out of coffee. I&#39;d like to make particular mention of one of the brilliant organisers, Lucy Knight, not least because I&#39;m lucky enough to work with her.&lt;/p&gt;
 &lt;p&gt;I attended a pretty diverse range of sessions: democracy, food, design, and mapping the benefits of open data. I enjoyed them all, although I repeatedly found that the conversation just started as the session ended. From past experience it&#39;s usually the case. As the first Open Data Camp it&#39;s probably more expected than in other, established events like GovCamp, but it&#39;s no bad thing; it helps to plot the course.&lt;/p&gt;
@@ -53,9 +53,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Think Piece</title>
-		<link href="http://mistergough.com/2015/01/15/think-piece.html"/>
+		<link href="http://mistergough.com//2015/01/15/think-piece.html"/>
 		<updated>2015-01-15T12:18:24+01:00</updated>
-		<id>http://mistergough.com/2015/01/15/think-piece</id>
+		<id>http://mistergough.com//2015/01/15/think-piece</id>
 		<content type="html">&lt;p&gt;Blog commenting systems have evolved very little since their inception. One of the more interesting examples of some kind of evolution was Branch&#39;s inline commenting system; part of the platform&#39;s attempt to encourage thoughts-in-progress rather than finished pieces. &lt;/p&gt;
 &lt;p&gt;Medium has similar functionality at the paragraph level but it fails to realise the potential due to its focus on polished editorial, and so the nearest thing we have to an unfinished ideas platform is Twitter. But still we rarely see the level of vulnerability and open thinking necessary to make it work there. &lt;/p&gt;
 &lt;p&gt;The ability to share half-formed ideas is a vital thing. Face-to-face conversations  are built on these foundations. Without them we&#39;d just be trading a series of pre-prepared monologues. And yet the internet still doesn&#39;t seem to effectively support this fundamental behaviour.&lt;/p&gt;
@@ -69,9 +69,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Group Love</title>
-		<link href="http://mistergough.com/2014/11/23/group-love.html"/>
+		<link href="http://mistergough.com//2014/11/23/group-love.html"/>
 		<updated>2014-11-23T11:20:16+01:00</updated>
-		<id>http://mistergough.com/2014/11/23/group-love</id>
+		<id>http://mistergough.com//2014/11/23/group-love</id>
 		<content type="html">&lt;p&gt;Facebook&#39;s recent release of a standalone Group app and its less recent Messaging app are indicators of something important in the way we use social networks.&lt;/p&gt;
 &lt;p&gt;One of my least favourite things about social media is the way in which all new platforms perpetuate the follower or friend model; one of the obvious criticisms of something like Ello is that its architecture requires us to scale our connections. It wants to replicate Twitter or Facebook. Just without the ads. &lt;/p&gt;
 &lt;p&gt;All new apps seem to want to replicate the fundamental dynamics of Twitter or Facebook. The thing is, the longer Twitter and Facebook go unchallenged, the harder it gets to compete with a platform that embeds itself more into our lives the longer we use it. &lt;/p&gt;
@@ -86,9 +86,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Learning Muscles</title>
-		<link href="http://mistergough.com/2014/09/25/learning-muscles.html"/>
+		<link href="http://mistergough.com//2014/09/25/learning-muscles.html"/>
 		<updated>2014-09-25T13:26:19+02:00</updated>
-		<id>http://mistergough.com/2014/09/25/learning-muscles</id>
+		<id>http://mistergough.com//2014/09/25/learning-muscles</id>
 		<content type="html">&lt;p&gt;Weight training works by pushing muscles to breaking point and then allowing them to recover, and grow. Formal education doesn&#39;t work this way. It supports and guides, providing children with a safe environment to acquire knowledge.&lt;/p&gt;
 &lt;p&gt;We already exerience information overload, so it seems pretty likely that a couple of key skills for our future society will be the ability to learn and the ability to filter.&lt;/p&gt;
 &lt;p&gt;So, how do we prepare children for this reality? Do we guide them through a supporting learning experience or do we throw them into chaos?&lt;/p&gt;
@@ -99,9 +99,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Common Sense</title>
-		<link href="http://mistergough.com/2014/08/14/common-sense-2.html"/>
+		<link href="http://mistergough.com//2014/08/14/common-sense-2.html"/>
 		<updated>2014-08-14T11:29:04+02:00</updated>
-		<id>http://mistergough.com/2014/08/14/common-sense-2</id>
+		<id>http://mistergough.com//2014/08/14/common-sense-2</id>
 		<content type="html">&lt;p&gt;When I was growing up the adults in my life often judged me on the basis of something they called common sense. For them it was some sort of unquestionable constant.&lt;/p&gt;
 &lt;p&gt;Its values helped them to assert their dominance over young people, children, me. Suffice to say, I lacked it. And the constant reminder that I lacked it contributed in no small part in my growth from an awkward, unsure child to an awkward, unsure teenager.&lt;/p&gt;
 &lt;p&gt;Common sense is all about the basics. Or at least the basics from the perspective of the adults I grew up with. Does this young person know how to sweep a driveway? Do they know how to hold a hammer? In other cultures theses things might not matter too much. In my circles they were the cornerstones.&lt;/p&gt;
@@ -118,9 +118,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Economic Thinking</title>
-		<link href="http://mistergough.com/2014/07/17/economic-thinking.html"/>
+		<link href="http://mistergough.com//2014/07/17/economic-thinking.html"/>
 		<updated>2014-07-17T07:28:07+02:00</updated>
-		<id>http://mistergough.com/2014/07/17/economic-thinking</id>
+		<id>http://mistergough.com//2014/07/17/economic-thinking</id>
 		<content type="html">&lt;p&gt;It wouldn&#39;t be an exaggeration to say that most of the world&#39;s problems are directly caused by either:&lt;/p&gt;
 &lt;p&gt;A. A misunderstanding of economics &lt;br /&gt;B. A misuse of economics&lt;/p&gt;
 &lt;p&gt;And yet, an understanding of economics seems to be incredibly rare, whether it&#39;s a general understanding we all share or the deep understanding we expect from those in charge.&lt;/p&gt;
@@ -134,9 +134,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Design Units</title>
-		<link href="http://mistergough.com/2014/07/08/design-units.html"/>
+		<link href="http://mistergough.com//2014/07/08/design-units.html"/>
 		<updated>2014-07-08T07:53:25+02:00</updated>
-		<id>http://mistergough.com/2014/07/08/design-units</id>
+		<id>http://mistergough.com//2014/07/08/design-units</id>
 		<content type="html">&lt;p&gt;The more complex the unit of design, the less we are likely to question it. Simple products can be easily evaluated; when a bottle opener doesn&#39;t work we&#39;re happy to point to its flaws. But we rarely do this with systems, organisations, governments.&lt;/p&gt;
 &lt;p&gt;We rely on our direct relationship with things to provide our opportunity to critique them. My nan&#39;s relationship with democracy often came down to which doorstopping man looked the &quot;nicest&quot;. That&#39;s not a criticism of her, it&#39;s simply a statement of how much mental energy we can all be bothered to expend on anything more abstract than that which we&#39;re shown.&lt;/p&gt;
 &lt;p&gt;Perhaps we judge our local government on whether our bins get collected. In democracy terms it&#39;s about as valid as the nice-looking man. In many cases this inability to think about anything bigger than our direct point of contact with something is used against us. Charities don&#39;t ask us to question whether the unit of a charity is the best way to help people in need, they just tell us the story of one person.&lt;/p&gt;
@@ -146,9 +146,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Subtractive Value</title>
-		<link href="http://mistergough.com/2014/07/04/subtractive-value.html"/>
+		<link href="http://mistergough.com//2014/07/04/subtractive-value.html"/>
 		<updated>2014-07-04T14:36:12+02:00</updated>
-		<id>http://mistergough.com/2014/07/04/subtractive-value</id>
+		<id>http://mistergough.com//2014/07/04/subtractive-value</id>
 		<content type="html">&lt;p&gt;I was originally going to write something about a subtractive view of design, or rather how design should focus more on how to take things away than how to create. &lt;/p&gt;
 &lt;p&gt;After all, truly good designs simplifies, removes obstacles, eliminates problems. Good design brings clarity, reduces uncertainty. And yet we often think of design in terms of what we create, of the shiny newness. Whether it&#39;s the tangible output or the tools of the process we&#39;re always adding.&lt;/p&gt;
 &lt;p&gt;But even the most tangible of design objects, the prototype, is primarily concerned with subtraction; we prototype to reduce uncertainty, to take away the unknown. &lt;/p&gt;
@@ -162,9 +162,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Experiment and Strategy</title>
-		<link href="http://mistergough.com/2014/06/26/experiment-and-strategy.html"/>
+		<link href="http://mistergough.com//2014/06/26/experiment-and-strategy.html"/>
 		<updated>2014-06-26T06:24:09+02:00</updated>
-		<id>http://mistergough.com/2014/06/26/experiment-and-strategy</id>
+		<id>http://mistergough.com//2014/06/26/experiment-and-strategy</id>
 		<content type="html">&lt;p&gt;The word &quot;experiment&quot; seems to have two, almost different meanings. One one hand we think of it as a one-off, radical thing; experimental art and music are out there, crazy, avant garde. The opposite of systematic, methodical.&lt;/p&gt;
 &lt;p&gt;On the other hand we have science. Experiments in science are a core process. They&#39;re how we do science and they&#39;re very much systematic and methodical.&lt;/p&gt;
 &lt;p&gt;Lean Startup reminded me of this apparent dichotomy. Lean Startup experiments are designed, methodical, iterative, repetitive (if done properly). In fact they become one of the only truly meaningful ways to learn anything, in the same way that babies learn: trying something new, making mistakes, trying something different. Human beings all grow up this way and then at some point in our lives most of us start to lose the will to experiment.&lt;/p&gt;
@@ -174,9 +174,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Reality Friction</title>
-		<link href="http://mistergough.com/2014/06/03/reality-friction.html"/>
+		<link href="http://mistergough.com//2014/06/03/reality-friction.html"/>
 		<updated>2014-06-03T19:16:58+02:00</updated>
-		<id>http://mistergough.com/2014/06/03/reality-friction</id>
+		<id>http://mistergough.com//2014/06/03/reality-friction</id>
 		<content type="html">&lt;p&gt;The last couple of weeks saw the sad demise of a really great app, How Do. It allowed you to take pictures of the steps involved in doing something interesting and leave some audio commentary along the way. It was a treasure trove of wonderful little tips and tricks, but sadly it&#39;s no more.&lt;/p&gt;
 &lt;p&gt;The thing is, I never properly used it. Yes, I browsed what was on there, and I had it installed on my phone. But never once did I leave a tip myself. I don&#39;t know what caused its founders to pull the plug but I&#39;m sure I wasn&#39;t the only one to like the idea without fully engaging.&lt;/p&gt;
 &lt;p&gt;When you&#39;re looking at your phone all the time, when it&#39;s your window on the world, it&#39;s very easy to use those apps that involve nothing more than your brain and your phone. There&#39;s little to separate a thought and a tweet. It&#39;s even easier to engage with something that starts and ends at the same interface; we can all retweet and we can all share links.&lt;/p&gt;
@@ -191,9 +191,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Reverse-Engineered Stupidity</title>
-		<link href="http://mistergough.com/2014/04/02/reverse-engineered-stupidity.html"/>
+		<link href="http://mistergough.com//2014/04/02/reverse-engineered-stupidity.html"/>
 		<updated>2014-04-02T09:18:30+02:00</updated>
-		<id>http://mistergough.com/2014/04/02/reverse-engineered-stupidity</id>
+		<id>http://mistergough.com//2014/04/02/reverse-engineered-stupidity</id>
 		<content type="html">&lt;p&gt;Instead of imagining that we&#39;re creating perpetual engines with our ideas, a little push in the right direction to conquer the world, let&#39;s imagine that all ideas are fundamentally stupid and work back from their inevitable demise.&lt;/p&gt;
 &lt;p&gt;Here&#39;s a handy formula:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://mistergough.files.wordpress.com/2014/04/stupidity.png&quot;&gt;&lt;img src=&quot;assets/stupidity.png&quot; alt=&quot;Stupidity Formula&quot; width=&quot;545&quot; height=&quot;235&quot; class=&quot;aligncenter size-full wp-image-395&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -206,9 +206,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>The Walls of the Universe</title>
-		<link href="http://mistergough.com/2014/04/01/the-walls-of-the-universe.html"/>
+		<link href="http://mistergough.com//2014/04/01/the-walls-of-the-universe.html"/>
 		<updated>2014-04-01T13:42:05+02:00</updated>
-		<id>http://mistergough.com/2014/04/01/the-walls-of-the-universe</id>
+		<id>http://mistergough.com//2014/04/01/the-walls-of-the-universe</id>
 		<content type="html">&lt;p&gt;There&#39;s an exercise called The Five Whys. You may have heard of it. The aim is to keep asking &quot;why?&quot; until you get back to the root of an issue. It&#39;s a good exercise; it teaches us not to accept face value, but it also makes an assumption. It almost makes us believe that we are capable of a broad perspective, that we can fully escape the context of something.&lt;/p&gt;
 &lt;p&gt;Last week I was in another country, talking to someone about education. I have a lot of conversations about education, some self-initiated, others through no fault of my own. My position on education is pretty clear: I think that school is fundamentally wrong. I think that subjects, lessons, teachers and grades comprise the worst possible way for children to learn.&lt;/p&gt;
 &lt;p&gt;Most of the time, when I&#39;m talking to people in the UK, I can get this point across relatively easily. Not everyone agrees with it but more people than you might imagine will happily consider the perspective.&lt;/p&gt;
@@ -224,9 +224,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>The Lone Designer</title>
-		<link href="http://mistergough.com/2014/03/29/the-lone-designer.html"/>
+		<link href="http://mistergough.com//2014/03/29/the-lone-designer.html"/>
 		<updated>2014-03-29T14:56:37+01:00</updated>
-		<id>http://mistergough.com/2014/03/29/the-lone-designer</id>
+		<id>http://mistergough.com//2014/03/29/the-lone-designer</id>
 		<content type="html">&lt;p&gt;One of the best graphic designers I ever met never used a computer. In fact he predominantly used a photocopier and pair of scissors. Once he&#39;d roughed out some ideas with cut and paste he&#39;d talk to other people to get everything into digital files; he&#39;d work with a typesetter, an artist, an illustrator.&lt;/p&gt;
 &lt;p&gt;He produced some great work, and it was real teamwork. But it wasn&#39;t just internal teamwork, it was client collaboration too. Everything began with a meeting. We&#39;d sit down together and work through the design as if we were both working on it. He&#39;d cut things out, stick them together. Scissors, sticky tape, pencils, democratic tools. We&#39;d look at typeface catalogues together, discuss colours.&lt;/p&gt;
 &lt;p&gt;Nothing was ever thrown over the wall. I didn&#39;t send him a brief and wait for something to come back. He didn&#39;t pass on a finished design to the typesetters. Projects remained in flux, part of a conversation, until the final piece of work was produced.&lt;/p&gt;
@@ -251,9 +251,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>Speaking Volumes</title>
-		<link href="http://mistergough.com/2014/02/18/speaking-volumes.html"/>
+		<link href="http://mistergough.com//2014/02/18/speaking-volumes.html"/>
 		<updated>2014-02-18T13:54:59+01:00</updated>
-		<id>http://mistergough.com/2014/02/18/speaking-volumes</id>
+		<id>http://mistergough.com//2014/02/18/speaking-volumes</id>
 		<content type="html">&lt;p&gt;I recently came to the conclusion that I never really learn much from books. If I was to rank the ways in which I actually learn it would look a little like this:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Having a go myself&lt;/li&gt;
@@ -271,9 +271,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>Capacity, Flow and Separation</title>
-		<link href="http://mistergough.com/2014/02/05/capacity-flow-and-separation.html"/>
+		<link href="http://mistergough.com//2014/02/05/capacity-flow-and-separation.html"/>
 		<updated>2014-02-05T20:08:56+01:00</updated>
-		<id>http://mistergough.com/2014/02/05/capacity-flow-and-separation</id>
+		<id>http://mistergough.com//2014/02/05/capacity-flow-and-separation</id>
 		<content type="html">&lt;p&gt;I recently read &lt;a title=&quot;Personal Kanban&quot; href=&quot;http://www.personalkanban.com/pk/personal-kanban-the-book/#sthash.oSTYptKw.dpbs&quot; target=&quot;_blank&quot;&gt;Personal Kanban&lt;/a&gt;, which I thoroughly recommend, especially if you want to get away from the tyranny of to-do lists. In other words, I&#39;d recommend it to everyone.&lt;/p&gt;
 &lt;p&gt;One of the themes of the book is the distinction between capacity and flow; neatly described in terms of road traffic. A road at full capacity - in other words with no space between the cars - doesn&#39;t move at all. A road with adequate space between the cars will flow.&lt;/p&gt;
 &lt;p&gt;Put this way it&#39;s clear how disadvantageous it is for things that need to move to be at full capacity. Full capacity is great for a glass of wine, not so good for living.&lt;/p&gt;
@@ -286,9 +286,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>The Vinyl Emporium User Experience</title>
-		<link href="http://mistergough.com/2014/01/28/the-vinyl-emporium-user-experience.html"/>
+		<link href="http://mistergough.com//2014/01/28/the-vinyl-emporium-user-experience.html"/>
 		<updated>2014-01-28T18:13:44+01:00</updated>
-		<id>http://mistergough.com/2014/01/28/the-vinyl-emporium-user-experience</id>
+		<id>http://mistergough.com//2014/01/28/the-vinyl-emporium-user-experience</id>
 		<content type="html">&lt;p&gt;About a decade ago I went into a record shop in Soho and asked about a forthcoming release by a DJ/producer called Will Saul. I was really into his stuff at the time.&lt;/p&gt;
 &lt;p&gt;The shop assistant picked up her phone...&lt;/p&gt;
 &lt;p&gt;&quot;Will, hi! Yeah, OK. No. Did you? Really? Look, when&#39;s the album out? Monday? Thanks.&quot;&lt;/p&gt;
@@ -312,9 +312,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>Things That Aren't The Actual Things</title>
-		<link href="http://mistergough.com/2014/01/20/things-that-arent-the-actual-things.html"/>
+		<link href="http://mistergough.com//2014/01/20/things-that-arent-the-actual-things.html"/>
 		<updated>2014-01-20T13:00:13+01:00</updated>
-		<id>http://mistergough.com/2014/01/20/things-that-arent-the-actual-things</id>
+		<id>http://mistergough.com//2014/01/20/things-that-arent-the-actual-things</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;http://mistergough.files.wordpress.com/2014/01/magritte.jpeg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-372&quot; alt=&quot;magritte&quot; src=&quot;assets/magritte.jpeg&quot; width=&quot;545&quot; height=&quot;379&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I&#39;m re-reading Scott McCloud&#39;s excellent Understanding Comics. Early in the book he &quot;talks&quot; about Magritte&#39;s The Treachery of Images (&quot;Ceci n&#39;est pas une pipe&quot;) and things that are not really things.&lt;/p&gt;
 &lt;p&gt;His comment on the fact that in the book you&#39;re looking at a printed reproduction of a drawing of a painting of a pipe is intriguing. It seems absurd to paint a pipe and then write underneath that it isn&#39;t a pipe, but it&#39;s entirely correct, and a wonderful statement on too many things to talk about in a short blog post.&lt;/p&gt;
@@ -331,9 +331,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>Half-Formed Thoughts on Connections and Consciousness</title>
-		<link href="http://mistergough.com/2014/01/15/half-formed-thoughts-on-connections-and-consciousness.html"/>
+		<link href="http://mistergough.com//2014/01/15/half-formed-thoughts-on-connections-and-consciousness.html"/>
 		<updated>2014-01-15T11:10:44+01:00</updated>
-		<id>http://mistergough.com/2014/01/15/half-formed-thoughts-on-connections-and-consciousness</id>
+		<id>http://mistergough.com//2014/01/15/half-formed-thoughts-on-connections-and-consciousness</id>
 		<content type="html">&lt;p&gt;I was thinking about what we really meant by “connections”. We talk about them all the time but what do they actually look like? We tend to describe them as either a vague concept, as in “there&#39;s a connection”, or we talk about an external mechanism somewhere in the space between people, like social media. But what does a connection actually look like?&lt;/p&gt;
 &lt;p&gt; A couple of books I’ve been reading made me think about the internal and external worlds of our lives, the places we inhabit in our heads and the interactions we have with other people. I was particularly drawn to ways of looking at art and design, and wondering whether we could describe the differences in this way:&lt;/p&gt;
 &lt;p&gt; “The artist meets us in their world; the designer meets us in ours.”&lt;/p&gt;
@@ -345,9 +345,9 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 	
 	<entry>
 		<title>Ideas and Principles</title>
-		<link href="http://mistergough.com/2014/01/08/ideas-and-principles.html"/>
+		<link href="http://mistergough.com//2014/01/08/ideas-and-principles.html"/>
 		<updated>2014-01-08T09:04:30+01:00</updated>
-		<id>http://mistergough.com/2014/01/08/ideas-and-principles</id>
+		<id>http://mistergough.com//2014/01/08/ideas-and-principles</id>
 		<content type="html">&lt;p&gt;I was intrigued by &lt;a href=&quot;https://www.theamazings.com/pages/moving-on&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; on the closure of The Amazings. I don&#39;t know much about the organisation and how well it was run but the concept reminded me of some others I&#39;d seen recently.&lt;/p&gt;
 &lt;p&gt;Who could not like the underlying principle of The Amazings? Connect up skilled and experienced older people with other people eager to learn. A great principle. But what about the idea? There have been plenty of comments on the way in which The Amazings was run but what if the idea was bad? How would we know?&lt;/p&gt;
 &lt;p&gt;The thing about bad ideas is that opinion doesn&#39;t really matter. The only way of testing ideas is to put them into action. In most cases this works, but when principles are involved we get problems.&lt;/p&gt;
