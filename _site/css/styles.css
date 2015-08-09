@@ -26,6 +26,9 @@ h4 {
   margin: 1em 0 0.1em 0;
   line-height: 1em; }
 
+img {
+  max-width: 100%; }
+
 #post-wrapper {
   margin: 0 auto;
   max-width: 600px; }

@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2015-08-09T10:30:47+02:00</updated>
+	<updated>2015-08-09T10:46:11+02:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -190,21 +190,6 @@ rel="alternate"/>
 	</entry>
 	
 	<entry>
-		<title>Reverse-Engineered Stupidity</title>
-		<link href="http://mistergough.com//2014/04/02/reverse-engineered-stupidity.html"/>
-		<updated>2014-04-02T09:18:30+02:00</updated>
-		<id>http://mistergough.com//2014/04/02/reverse-engineered-stupidity</id>
-		<content type="html">&lt;p&gt;Instead of imagining that we&#39;re creating perpetual engines with our ideas, a little push in the right direction to conquer the world, let&#39;s imagine that all ideas are fundamentally stupid and work back from their inevitable demise.&lt;/p&gt;
-&lt;p&gt;Here&#39;s a handy formula:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://mistergough.files.wordpress.com/2014/04/stupidity.png&quot;&gt;&lt;img src=&quot;assets/stupidity.png&quot; alt=&quot;Stupidity Formula&quot; width=&quot;545&quot; height=&quot;235&quot; class=&quot;aligncenter size-full wp-image-395&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;i = the level of investment required&lt;br /&gt;
-s = the stupidity of the idea&lt;br /&gt;
-t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&gt;
-&lt;p&gt;Note that s is squared. Stupid ideas have an exponential impact on everything.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>The Walls of the Universe</title>
 		<link href="http://mistergough.com//2014/04/01/the-walls-of-the-universe.html"/>
 		<updated>2014-04-01T13:42:05+02:00</updated>
@@ -353,6 +338,21 @@ t = the length of time you want people to think the idea isn&#39;t stupid&lt;/p&
 &lt;p&gt;The thing about bad ideas is that opinion doesn&#39;t really matter. The only way of testing ideas is to put them into action. In most cases this works, but when principles are involved we get problems.&lt;/p&gt;
 &lt;p&gt;By confusing principles with ideas we run the risk of prolonging the bad ideas. Principles attract the sort of funding that doesn&#39;t care how viable and sustainable the idea is. Principles attract the sort of support that makes everyone believe there&#39;s a good idea.&lt;/p&gt;
 &lt;p&gt;And so the bad, unsustainable ideas keep going. Until the money runs out.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Grey Goo</title>
+		<link href="http://mistergough.com//2014/01/01/grey-goo.html"/>
+		<updated>2014-01-01T11:21:35+01:00</updated>
+		<id>http://mistergough.com//2014/01/01/grey-goo</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;&quot;Gray goo (also spelled grey goo) is a hypothetical end-of-the-world scenario involving molecular nanotechnology in which out-of-control self-replicating robots consume all matter on Earth while building more of themselves.&quot; - Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Or perhaps it&#39;s looking at Spotify or the Kindle and realising that there&#39;s so much digital stuff with less and less to differentiate it that you can&#39;t be bothered to look for anything new. Maybe it&#39;s even finding something new and listening to it once or just reading the first few pages.&lt;/p&gt;
+&lt;p&gt;I even have stuff favourited and downloaded that I can&#39;t be bothered to listen to or read once. The grey screen of my Kindle has become its own grey goo. I&#39;m not being eaten alive by self-replicating robots; I&#39;m just losing the will to open books. And when I lose the will to engage with art, culture and information then the grey goo has won.&lt;/p&gt;
+&lt;p&gt;The fault doesn&#39;t lie with digital technology, it&#39;s just that I&#39;m not connecting personally, deeply with the things that I once would have. The act of going into a shop and buying a book or a CD requires investment. It takes effort and time. So I work at it. I make sure I read the book. I listen to the CD a few times (even if I don&#39;t like it at first).&lt;/p&gt;
+&lt;p&gt;How do we replicate this personal investment for the digital age? How do we enter into that contract with the things that other people have created? It&#39;s not a social issue, it&#39;s a personal one. And I&#39;m not sure we have the mechanisms for it yet.&lt;/p&gt;
 </content>
 	</entry>
 	
