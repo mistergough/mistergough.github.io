@@ -8,7 +8,6 @@ status: publish
 type: post
 published: true
 author:
-  login: mistergough
   email: mistergough@gmail.com
   display_name: mistergough
   first_name: Simon
@@ -56,3 +55,7 @@ Moving a blog from another platform turned out to be easier than I expected. Jek
 Site feeds turn out to be pretty simple too. You can use the [feed.xml](https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml) template in my own repository without too much configuration or look around for other people's. There are plenty out there.
 
 So, if you like the look of this blog just take what you want and modify accordingly. I'd love to know how you get on.
+
+### Difficulty
+
+I mentioned at the beginning of this post that I'd spent a couple of days doing this. OK, not full time, but if you're new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there's a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it's definitely worth a go.

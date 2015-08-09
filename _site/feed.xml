@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2015-08-09T12:23:58+02:00</updated>
+	<updated>2015-08-09T12:34:16+02:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -15,9 +15,9 @@ rel="alternate"/>
 	
 	<entry>
 		<title>Static Blogging</title>
-		<link href="http://mistergough.com//2015/08/09/jekyll.html"/>
+		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
 		<updated>2015-08-09T00:00:00+02:00</updated>
-		<id>http://mistergough.com//2015/08/09/jekyll</id>
+		<id>http://mistergough.com//2015/08/09/static-blogging</id>
 		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
 
 &lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
@@ -57,6 +57,10 @@ rel="alternate"/>
 &lt;p&gt;Site feeds turn out to be pretty simple too. You can use the &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml&quot;&gt;feed.xml&lt;/a&gt; template in my own repository without too much configuration or look around for other people’s. There are plenty out there.&lt;/p&gt;
 
 &lt;p&gt;So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.&lt;/p&gt;
+
+&lt;h3 id=&quot;difficulty&quot;&gt;Difficulty&lt;/h3&gt;
+
+&lt;p&gt;I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.&lt;/p&gt;
 </content>
 	</entry>
 	
