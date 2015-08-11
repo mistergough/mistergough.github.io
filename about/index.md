@@ -6,7 +6,7 @@ I'm Simon Gough and this is my personal blog for posts that don't belong elsewhe
 
 Most of my work is done through [Redfront](http://redfront.co.uk), a human-centred design agency with an interest in new models and applications of design.
 
-I also run [imagetext](http://imagetext.co.uk), working on the ocassional digital design project. I like to do things collaboratively. I actually wrote [a post about that](http://mistergough.com/2014/03/29/the-lone-designer.html).
+I also run [imagetext](http://imagetext.co.uk), working on the occasional digital design project. I like to do things collaboratively. I actually wrote [a post about that](http://mistergough.com/2014/03/29/the-lone-designer.html).
 
 Since 2009 I've co-written [The Minimal List](http://theminimallist.com), a blog about family, minimalism, learning and adventure. We're just about to relaunch with a bit less minimalism and fewer lists.
 
