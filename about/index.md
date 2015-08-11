@@ -2,7 +2,7 @@
 layout: post
 title: About
 ---
-I'm Simon Gough and this is my personal blog, generally with some kind of design, technology, learning, anarchy theme.
+I'm Simon Gough and this is my personal blog for posts that don't belong elsewhere, generally with some kind of design, technology, learning, civil disobedience theme.
 
 Most of my work is done through [Redfront](http://redfront.co.uk), a human-centred design agency with an interest in new models and applications of design. We like making things, and making things that help other people make things.
 
