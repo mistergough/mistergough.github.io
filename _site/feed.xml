@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2015-08-11T08:59:48+02:00</updated>
+	<updated>2015-08-14T14:34:40+02:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -18,6 +18,57 @@ rel="alternate"/>
 		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
 		<updated>2015-08-09T00:00:00+02:00</updated>
 		<id>http://mistergough.com//2015/08/09/static-blogging</id>
+		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
+
+&lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
+
+&lt;p&gt;There are lots of ways to generate static files, including the completely manual approach, but for this blog I decided to use  &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is a processing application that pulls together separate files and combines them into finished HTML pages. The point of this it to make it easier to separate content and presentation so that blog posts can be written in, say, &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;, just as with this one. It also means that you can reuse snippets of HTML in lots of places, such as page headers and footers.&lt;/p&gt;
+
+&lt;p&gt;Anyway, for an overview of Jekyll &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;take a look at the website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another reason for using Jekyll is the fact that it’s supported by &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, a simple website hosting platform that works from a dedicated Github repository. For free.&lt;/p&gt;
+
+&lt;p&gt;There are many different ways to set up a Jekyll and Github blog, and the right approach will depend largely on personal preferences, but &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; should give you an idea of what’s involved.&lt;/p&gt;
+
+&lt;p&gt;The first step is to get a Github account, if you don’t already have one. Once you have an account you can set up Github Pages as a dedicated respository.&lt;/p&gt;
+
+&lt;p&gt;After this you should clone the remote repository to your local computer. Github provides full instructions for this. Scrolling down &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; you’ll find instructions for getting Jekyll up and running. This can be a bit fiddly but what you want to end up with is jekyll running on your local computer for generating static files and enough of an understanding of git to push those files up to the Github repository.&lt;/p&gt;
+
+&lt;p&gt;Once you have the basics working you can play around with design, structure and content. Every update, whether it’s a design change or new post becomes a matter of pushing the modified files to your repository.&lt;/p&gt;
+
+&lt;h3 id=&quot;css&quot;&gt;CSS&lt;/h3&gt;
+
+&lt;p&gt;Jekyll has built in support for &lt;a href=&quot;http://sass-lang.com/&quot;&gt;CSS extension Sass&lt;/a&gt;, which is well worth learning and using if you don’t already. Of course, if you don’t want to get into the design side at all you can just download and use ready made themes (&lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt; is worth a look). You can even use the theme I’ve built here by cloning all the site files &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io&quot;&gt;from my own repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
+
+&lt;p&gt;Markdown is a simple system for styling text documents. Jekyll has built-in support for Markdown which means that you can write your posts in a more user-friendly way and then let Jekyll handle the rest. It’s worth learning the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown syntax&lt;/a&gt; as it’s become something of a standard.&lt;/p&gt;
+
+&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
+
+&lt;p&gt;The biggest drawback to Jekyll at this point is the lack of any good static commenting systems. At this point &lt;a href=&quot;https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions&quot;&gt;Disqus&lt;/a&gt; remains the most effective commenting system. It’s pretty easy to set up even if it’s not to everyone’s taste.&lt;/p&gt;
+
+&lt;h3 id=&quot;importing&quot;&gt;Importing&lt;/h3&gt;
+
+&lt;p&gt;Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of &lt;a href=&quot;http://import.jekyllrb.com/&quot;&gt;import extensions&lt;/a&gt; for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.&lt;/p&gt;
+
+&lt;h3 id=&quot;feeds&quot;&gt;Feeds&lt;/h3&gt;
+
+&lt;p&gt;Site feeds turn out to be pretty simple too. You can use the &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml&quot;&gt;feed.xml&lt;/a&gt; template in my own repository without too much configuration or look around for other people’s. There are plenty out there.&lt;/p&gt;
+
+&lt;p&gt;So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.&lt;/p&gt;
+
+&lt;h3 id=&quot;difficulty&quot;&gt;Difficulty&lt;/h3&gt;
+
+&lt;p&gt;I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Static Blogging</title>
+		<link href="http://mistergough.com//2015/08/09/functional-empathy.html"/>
+		<updated>2015-08-09T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2015/08/09/functional-empathy</id>
 		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
 
 &lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
@@ -376,19 +427,6 @@ rel="alternate"/>
 &lt;p&gt; It’s a simplification, and these things are never just about meeting, but I couldn’t find a particularly good way of describing how an artist brings us into their inner world in order to help us explore ours and a designer enters our world to understand how to connect it with theirs. Or something like that.&lt;/p&gt;
 &lt;p&gt; Either way, it did seem interesting to consider the internal exploration of the artist versus the external exploration of the designer. These internal and external spaces, and the way we use them, potentially offer different perspectives on what we mean by “connection”. Somewhere between our innermost consciousness and that of someone else lies a connection point.&lt;/p&gt;
 &lt;p&gt; Depending on how self-centred each of us are that connection point lies deeper within one person than the other. We could probably even plot the point somewhere on a kind of diagram. Maybe someone has. But how does it apply to the people around us? What does the way someone writes (or makes music, has conversations) suggest about where these connection points lie for them? And how much are they aware of it?&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Ideas and Principles</title>
-		<link href="http://mistergough.com//2014/01/08/ideas-and-principles.html"/>
-		<updated>2014-01-08T09:04:30+01:00</updated>
-		<id>http://mistergough.com//2014/01/08/ideas-and-principles</id>
-		<content type="html">&lt;p&gt;I was intrigued by &lt;a href=&quot;https://www.theamazings.com/pages/moving-on&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; on the closure of The Amazings. I don&#39;t know much about the organisation and how well it was run but the concept reminded me of some others I&#39;d seen recently.&lt;/p&gt;
-&lt;p&gt;Who could not like the underlying principle of The Amazings? Connect up skilled and experienced older people with other people eager to learn. A great principle. But what about the idea? There have been plenty of comments on the way in which The Amazings was run but what if the idea was bad? How would we know?&lt;/p&gt;
-&lt;p&gt;The thing about bad ideas is that opinion doesn&#39;t really matter. The only way of testing ideas is to put them into action. In most cases this works, but when principles are involved we get problems.&lt;/p&gt;
-&lt;p&gt;By confusing principles with ideas we run the risk of prolonging the bad ideas. Principles attract the sort of funding that doesn&#39;t care how viable and sustainable the idea is. Principles attract the sort of support that makes everyone believe there&#39;s a good idea.&lt;/p&gt;
-&lt;p&gt;And so the bad, unsustainable ideas keep going. Until the money runs out.&lt;/p&gt;
 </content>
 	</entry>
 	

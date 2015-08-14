@@ -9,24 +9,67 @@
 	<meta name="description" content="mistergough's blog">
 </head>
 
-<h1><a href="http://mistergough.com/">mistergough.com</a> / <a href="http://mistergough.com/about">About</a> / <a href="http://mistergough.com/feed.xml">Feed</a> / <a href="https://twitter.com/mistergough">Twitter</a> / <a href="https://github.com/mistergough/mistergough.github.io">Source</a></h1>
+<h1><a href="http://mistergough.com/">mistergough.com</a> / <a href="http://mistergough.com/about">About</a> / <a href="http://mistergough.com/feed.xml">Feed</a> / <a href="http://eepurl.com/bv5ZfH">Email</a> / <a href="https://twitter.com/mistergough">Twitter</a> / <a href="https://github.com/mistergough/mistergough.github.io">Source</a></h1>
 <div id="post-wrapper">
 
 <body>
     
-<h2>Principles and Architecture</h2>
-<p>How do we build design principles into the deepest architecture of things, into the algorithms and mechanisms?</p>
-<p>It goes deeper than an ethos or mission. Those things change, get re-evaluated. Good intent can be reduced to a veneer while the core values are dismantled and exploited. </p>
-<p>But what if something couldn't exist at all without the complete set of design principles? Like a human body, every system present and functioning or no life at all. </p>
-<p>What are the means by which the architecture and the principles become inseparable? More importantly, how does this inseparability transcend enforcement and become a fundamental aspect of existence? </p>
+<h2>Static Blogging</h2>
+<p>Over the past couple of days I’ve been moving this blog from its original <a href="https://mistergough.wordpress.com">Wordpress.com</a> version to a static blog.</p>
 
-<p><a href="/2015/07/23/principles-and-architecture.html">ADD A COMMENT</a></p>
+<p>Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.</p>
+
+<p>There are lots of ways to generate static files, including the completely manual approach, but for this blog I decided to use  <a href="http://jekyllrb.com/">Jekyll</a>. Jekyll is a processing application that pulls together separate files and combines them into finished HTML pages. The point of this it to make it easier to separate content and presentation so that blog posts can be written in, say, <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, just as with this one. It also means that you can reuse snippets of HTML in lots of places, such as page headers and footers.</p>
+
+<p>Anyway, for an overview of Jekyll <a href="http://jekyllrb.com/">take a look at the website</a>.</p>
+
+<p>Another reason for using Jekyll is the fact that it’s supported by <a href="https://pages.github.com/">Github Pages</a>, a simple website hosting platform that works from a dedicated Github repository. For free.</p>
+
+<p>There are many different ways to set up a Jekyll and Github blog, and the right approach will depend largely on personal preferences, but <a href="https://pages.github.com/">this page</a> should give you an idea of what’s involved.</p>
+
+<p>The first step is to get a Github account, if you don’t already have one. Once you have an account you can set up Github Pages as a dedicated respository.</p>
+
+<p>After this you should clone the remote repository to your local computer. Github provides full instructions for this. Scrolling down <a href="https://pages.github.com/">this page</a> you’ll find instructions for getting Jekyll up and running. This can be a bit fiddly but what you want to end up with is jekyll running on your local computer for generating static files and enough of an understanding of git to push those files up to the Github repository.</p>
+
+<p>Once you have the basics working you can play around with design, structure and content. Every update, whether it’s a design change or new post becomes a matter of pushing the modified files to your repository.</p>
+
+<h3 id="css">CSS</h3>
+
+<p>Jekyll has built in support for <a href="http://sass-lang.com/">CSS extension Sass</a>, which is well worth learning and using if you don’t already. Of course, if you don’t want to get into the design side at all you can just download and use ready made themes (<a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a> is worth a look). You can even use the theme I’ve built here by cloning all the site files <a href="https://github.com/mistergough/mistergough.github.io">from my own repository</a>.</p>
+
+<h3 id="markdown">Markdown</h3>
+
+<p>Markdown is a simple system for styling text documents. Jekyll has built-in support for Markdown which means that you can write your posts in a more user-friendly way and then let Jekyll handle the rest. It’s worth learning the <a href="http://daringfireball.net/projects/markdown/">Markdown syntax</a> as it’s become something of a standard.</p>
+
+<h3 id="commenting">Commenting</h3>
+
+<p>The biggest drawback to Jekyll at this point is the lack of any good static commenting systems. At this point <a href="https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions">Disqus</a> remains the most effective commenting system. It’s pretty easy to set up even if it’s not to everyone’s taste.</p>
+
+<h3 id="importing">Importing</h3>
+
+<p>Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of <a href="http://import.jekyllrb.com/">import extensions</a> for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.</p>
+
+<h3 id="feeds">Feeds</h3>
+
+<p>Site feeds turn out to be pretty simple too. You can use the <a href="https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml">feed.xml</a> template in my own repository without too much configuration or look around for other people’s. There are plenty out there.</p>
+
+<p>So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.</p>
+
+<h3 id="difficulty">Difficulty</h3>
+
+<p>I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.</p>
+
+<p><a href="/2015/08/09/functional-empathy.html">ADD A COMMENT</a></p>
 
 <h2>All Posts</h2>
 	<ul>
   		
   		<li>
 			<a href="/2015/08/09/static-blogging.html">Static Blogging</a>
+		</li>
+		
+  		<li>
+			<a href="/2015/08/09/functional-empathy.html">Static Blogging</a>
 		</li>
 		
   		<li>
