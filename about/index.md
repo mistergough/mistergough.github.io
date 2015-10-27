@@ -24,4 +24,4 @@ For a while now I've been sharing [my attempt to become healthier](http://mister
 
 A lot of the above means that I need to write a lot. And over the past few years I've written a lot more. I think it's something I'd like to pursue in a more organised way so I'm always happy to get tips on that.
 
-Finally, I'd really like to become a better photographer although I don't get to spend a lot of time on it. I'm always happy to receive [constructive criticism](https://www.flickr.com/photos/mistergough/).
+Finally, I'd really like to become a better photographer although I don't get to spend a lot of time on it. Feel free to send me [constructive criticism](https://www.flickr.com/photos/mistergough/).
