@@ -2,16 +2,24 @@
 layout: post
 title: About
 ---
-I'm Simon Gough and this is my personal blog for posts that don't belong elsewhere, generally with some kind of design, technology, learning, civil disobedience theme.
+Hello. I'm Simon and I'm a design facilitator. I live in Barcelona. I do lots of different things with a common thread: helping people use design to make things better.
 
-Most of my work is done through [Redfront](http://redfront.co.uk), a human-centred design agency with an interest in new models and applications of design.
+My main thing is Redfront [Redfront](http://redfront.co.uk) where for many years I've been bringing design approaches to pretty much everything, using existing tools and making new ones.
 
-I also run [imagetext](http://imagetext.co.uk), working on the occasional digital design project. I like to do things collaboratively. I actually wrote [a post about that](http://mistergough.com/2014/03/29/the-lone-designer.html).
+I love projects and getting together with good people to do interesting things. Right now I'm working on  [Beyond](http://beyond.place) bringing together design, technology and data in the pursuit of something rather more human and imaginative than "smart cities".
 
-Since 2009 I've co-written [The Minimal List](http://theminimallist.com), a blog about family, minimalism, learning and adventure. We're just about to relaunch with a bit less minimalism and fewer lists.
+I'm also working on [The Self Agency](http://theself.agency), which will launch next April in Barcelona. I'll write more about that soon.
 
-The learning thing is particularly important. Our [Learning Outsiders](http://learningoutsiders.com) project is currently working on ways of taking the themes of unschooling to a wider audience.
+I've been a coder and visual designer for over twenty years. It influences all my work to some extent but I also do the occasional design and build project through [imagetext](http://imagetext.co.uk). Even there I like to do things collaboratively, something I wrote [a post about](http://mistergough.com/2014/03/29/the-lone-designer.html).
 
-I'm a co-founder of Open Data Institute Node [ODI Devon](http://devon.theodi.org) where, among other things, we're working on more human and sustainable approaches to smart technologies. Check out [Beyond](http://beyond.place) for more.
+While exploring the connection between human-centred design and data I accidentally became a co-founder of Open Data Institute Node [ODI Devon](http://devon.theodi.org). I even went as far as becoming a [Registered Trainer](http://theodi.org/training_team).
 
-Finally, I'm a very amateur photographer so here's [my Flickr account](https://www.flickr.com/photos/mistergough/). I'm hoping to improve.
+The human-centred data fascination is currently becoming a book, with the first version coming out soon. If that sounds interesting you can join [the mailing list](http://eepurl.com/br95wv).
+
+On a more personal note I've been using a blog to document my family's slow escape from our previous way of life. That blog, which we started in 2009 is called [The Minimal List](http://theminimallist.com).
+
+For a while now I've been sharing [my attempt to become healthier](http://misterscoff.wordpress.com), although the posts tend to go off on a tangent. It's mainly about food though, which is broad enough a topic to keep me going. 
+
+A lot of the above means that I need to write a lot. And over the past few years I've written a lot more. I think it's something I'd like to pursue in a more organised way so I'm always happy to get tips on that.
+
+Finally, I'd really like to become a better photographer although I don't get to spend a lot of time on it. I'm always happy to receive [constructive criticism](https://www.flickr.com/photos/mistergough/).
