@@ -13,7 +13,8 @@ author:
   first_name: Simon
   last_name: Gough
 excerpt: !ruby/object:Hpricot::Doc
-  options: {} comments: true
+  options: {}
+comments: true
 ---
 I hate going to the dentist. Or at least I hate the thought of going to the dentist. It actually turns out to be pretty bearable when I get there; except that the fear of going stops me rediscovering that. In fact, for maybe seven or eight years I completely avoided going to the dentist. And the longer I stayed away, the more difficult it became to face going.
 
