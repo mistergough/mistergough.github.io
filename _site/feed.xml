@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2015-08-14T14:49:54+02:00</updated>
+	<updated>2015-12-22T13:37:32+01:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -14,61 +14,33 @@ rel="alternate"/>
 	
 	
 	<entry>
-		<title>Static Blogging</title>
-		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
-		<updated>2015-08-09T00:00:00+02:00</updated>
-		<id>http://mistergough.com//2015/08/09/static-blogging</id>
-		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
+		<title>Normality</title>
+		<link href="http://mistergough.com//2015/12/22/normality.html"/>
+		<updated>2015-12-22T00:00:00+01:00</updated>
+		<id>http://mistergough.com//2015/12/22/normality</id>
+		<content type="html">&lt;p&gt;I hate going to the dentist. Or at least I hate the thought of going to the dentist. It actually turns out to be pretty bearable when I get there; except that the fear of going stops me rediscovering that. In fact, for maybe seven or eight years I completely avoided going to the dentist. And the longer I stayed away, the more difficult it became to face going.&lt;/p&gt;
 
-&lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
+&lt;p&gt;During that time, those years of avoidance, I worried constantly. I spent every day thinking about what might happen if I actually got to the dentist. I created scenarios in my head, eventually coming to the conclusion that I’d be having all my teeth out, that nothing was salvageable. It’s amazing what you can piece together in your head from substantial worry and scant fact.&lt;/p&gt;
 
-&lt;p&gt;There are lots of ways to generate static files, including the completely manual approach, but for this blog I decided to use  &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is a processing application that pulls together separate files and combines them into finished HTML pages. The point of this it to make it easier to separate content and presentation so that blog posts can be written in, say, &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;, just as with this one. It also means that you can reuse snippets of HTML in lots of places, such as page headers and footers.&lt;/p&gt;
+&lt;p&gt;You may or may not be surprised to discover that when I actually got the dentist after all those years it turned out not to be all that bad at all. In a short space of time all my apprehension vanished. And now I don’t think about it any more. Dentistry is no longer a pre-occupation.&lt;/p&gt;
 
-&lt;p&gt;Anyway, for an overview of Jekyll &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;take a look at the website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The thing is, my days are not filled with shiny white joy. I haven’t substituted the perpetual stress with boundless happiness. Which, in some ways, is surprising to me. After all, when I had the worry I believed that sorting things out would change my life. I fantasised about having overcome my fear. And now, when I look back, I realise that I’d pretty much accepted the state of things before. &lt;/p&gt;
 
-&lt;p&gt;Another reason for using Jekyll is the fact that it’s supported by &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, a simple website hosting platform that works from a dedicated Github repository. For free.&lt;/p&gt;
+&lt;p&gt;Everything consistent ultimately becomes normal. If I reflect on the period of change, of going from apprehension to relief, I can only pick out a short interlude of joy and excitement; for maybe a day or so I was going around with a grin on my face. Most of what went before and came after essentially flatlines on the emotional graph.&lt;/p&gt;
 
-&lt;p&gt;There are many different ways to set up a Jekyll and Github blog, and the right approach will depend largely on personal preferences, but &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; should give you an idea of what’s involved.&lt;/p&gt;
+&lt;p&gt;What have I learned from all this? Firstly, I’ve realised just how much I can accept in my daily life, how easy it is to live with exceptional circumstances. It’s a survival instinct, being able to cope. But it’s also a barrier to change. If I hadn’t assimilated the worry I’d maybe have done something about it sooner.&lt;/p&gt;
 
-&lt;p&gt;The first step is to get a Github account, if you don’t already have one. Once you have an account you can set up Github Pages as a dedicated respository.&lt;/p&gt;
+&lt;p&gt;Secondly, the future isn’t really worth fantasising about. However much I imagine something to have an impact on my life indefinitely, it’s just not true. The most terrible things, the most exciting things, can become normal. After the initial blip, it will all settle down. I might have moments of realisation, thinking to myself how great or badly things are going, but over time those moments will have to be forced.&lt;/p&gt;
 
-&lt;p&gt;After this you should clone the remote repository to your local computer. Github provides full instructions for this. Scrolling down &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; you’ll find instructions for getting Jekyll up and running. This can be a bit fiddly but what you want to end up with is jekyll running on your local computer for generating static files and enough of an understanding of git to push those files up to the Github repository.&lt;/p&gt;
-
-&lt;p&gt;Once you have the basics working you can play around with design, structure and content. Every update, whether it’s a design change or new post becomes a matter of pushing the modified files to your repository.&lt;/p&gt;
-
-&lt;h3 id=&quot;css&quot;&gt;CSS&lt;/h3&gt;
-
-&lt;p&gt;Jekyll has built in support for &lt;a href=&quot;http://sass-lang.com/&quot;&gt;CSS extension Sass&lt;/a&gt;, which is well worth learning and using if you don’t already. Of course, if you don’t want to get into the design side at all you can just download and use ready made themes (&lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt; is worth a look). You can even use the theme I’ve built here by cloning all the site files &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io&quot;&gt;from my own repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
-
-&lt;p&gt;Markdown is a simple system for styling text documents. Jekyll has built-in support for Markdown which means that you can write your posts in a more user-friendly way and then let Jekyll handle the rest. It’s worth learning the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown syntax&lt;/a&gt; as it’s become something of a standard.&lt;/p&gt;
-
-&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
-
-&lt;p&gt;The biggest drawback to Jekyll at this point is the lack of any good static commenting systems. At this point &lt;a href=&quot;https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions&quot;&gt;Disqus&lt;/a&gt; remains the most effective commenting system. It’s pretty easy to set up even if it’s not to everyone’s taste.&lt;/p&gt;
-
-&lt;h3 id=&quot;importing&quot;&gt;Importing&lt;/h3&gt;
-
-&lt;p&gt;Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of &lt;a href=&quot;http://import.jekyllrb.com/&quot;&gt;import extensions&lt;/a&gt; for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.&lt;/p&gt;
-
-&lt;h3 id=&quot;feeds&quot;&gt;Feeds&lt;/h3&gt;
-
-&lt;p&gt;Site feeds turn out to be pretty simple too. You can use the &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml&quot;&gt;feed.xml&lt;/a&gt; template in my own repository without too much configuration or look around for other people’s. There are plenty out there.&lt;/p&gt;
-
-&lt;p&gt;So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.&lt;/p&gt;
-
-&lt;h3 id=&quot;difficulty&quot;&gt;Difficulty&lt;/h3&gt;
-
-&lt;p&gt;I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.&lt;/p&gt;
+&lt;p&gt;Finally, the initial blip is what it’s fundamentally all about. The only normality that creates a constant impact is continual change. Whether it’s through tackling fears, switching contexts, learning new things, or just abandoning long-established habits; it’s the variety, perceived difficulty and pace of change that matters. Everything else becomes background.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Static Blogging</title>
-		<link href="http://mistergough.com//2015/08/09/functional-empathy.html"/>
+		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
 		<updated>2015-08-09T00:00:00+02:00</updated>
-		<id>http://mistergough.com//2015/08/09/functional-empathy</id>
+		<id>http://mistergough.com//2015/08/09/static-blogging</id>
 		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
 
 &lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
