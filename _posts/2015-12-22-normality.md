@@ -16,13 +16,13 @@ excerpt: !ruby/object:Hpricot::Doc
   options: {}
 comments: true
 ---
-I hate going to the dentist. Or at least I hate the thought of going to the dentist. It actually turns out to be pretty bearable when I get there; except that the fear of going stops me rediscovering that. In fact, for maybe seven or eight years I completely avoided going to the dentist. And the longer I stayed away, the more difficult it became to face going.
+I hate going to the dentist. Or at least I hate the thought of going to the dentist; for maybe seven or eight years I completely avoided it. And the longer I stayed away, the more difficult it became to face going.
 
 During that time, those years of avoidance, I worried constantly. I spent every day thinking about what might happen if I actually got to the dentist. I created scenarios in my head, eventually coming to the conclusion that I’d be having all my teeth out, that nothing was salvageable. It’s amazing what you can piece together in your head from substantial worry and scant fact.
 
 You may or may not be surprised to discover that when I actually got the dentist after all those years it turned out not to be all that bad at all. In a short space of time all my apprehension vanished. And now I don’t think about it any more. Dentistry is no longer a pre-occupation.
 
-The thing is, my days are not filled with shiny white joy. I haven’t substituted the perpetual stress with boundless happiness. Which, in some ways, is surprising to me. After all, when I had the worry I believed that sorting things out would change my life. I fantasised about having overcome my fear. And now, when I look back, I realise that I’d pretty much accepted the state of things before. 
+The thing is, my days are not filled with shiny white joy. I haven’t substituted the perpetual stress with boundless happiness. Which, in some ways, is surprising to me. After all, when I had the worry I believed that sorting things out would change my life. I fantasised about having overcome my fear. And now, when I look back, I realise that I’d also pretty much accepted the state of things before. 
 
 Everything consistent ultimately becomes normal. If I reflect on the period of change, of going from apprehension to relief, I can only pick out a short interlude of joy and excitement; for maybe a day or so I was going around with a grin on my face. Most of what went before and came after essentially flatlines on the emotional graph.
 
