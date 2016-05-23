@@ -4,7 +4,7 @@ title: About
 ---
 I'm a facilitator with an interest in design models, trying to better match ways of designing with the outcomes we want and over the past few years my work has converged on three, overlapping areas: interactions, systems and self.
 
-![Venn Diagram]({{ site.url }}_images/venndiagram.png)
+![Venn Diagram]({{ site.url }}images/venndiagram.png)
 
 [Redfront](http://redfront.co.uk) is a human-centred design agency, which I've been part of for over fifteen years. In addition to working for clients I spend my time creating new tools for design and sharing them with people. We've recently been involved with design projects for data, legal contracts, agile methodology and sharing startups.
 
