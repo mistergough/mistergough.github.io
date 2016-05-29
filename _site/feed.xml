@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2016-05-29T17:04:07+01:00</updated>
+	<updated>2016-05-29T17:06:53+01:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -18,7 +18,7 @@ rel="alternate"/>
 		<link href="http://mistergough.com//2016/05/29/soft-and-malleable.html"/>
 		<updated>2016-05-29T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2016/05/29/soft-and-malleable</id>
-		<content type="html">&lt;p&gt;Yesterday I helped out an Internet of Things (IoT) event for pretty much anyone who wanted come along and learn/tinker/hack/build/break. If you’re new to the technology one of the things that might strike you is the cheapness, availability and increasing simplicity of much of it.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Yesterday I helped out an Internet of Things (IoT) &lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23ThingsCamp&amp;amp;src=tyah&quot;&gt;event&lt;/a&gt; for pretty much anyone who wanted come along and learn/tinker/hack/build/break. If you’re new to the technology one of the things that might strike you is the cheapness, availability and increasing simplicity of much of it.&lt;/p&gt;
 
 &lt;p&gt;We live in a world where pretty much anything is possible. I don’t mean this in just the context of IoT, but rather in the context of everything. Between the internet, cheap electronics, developments in digital fabrication, even alternative models of democracy and ownership brought about through connectedness, we can—with the interest and will to do it—make almost anything.&lt;/p&gt;
 
