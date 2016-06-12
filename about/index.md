@@ -2,15 +2,23 @@
 layout: post
 title: About
 ---
-I'm a design facilitator/doer whose work converges on three, overlapping areas: interactions, systems and self. At least that’s how I make sense of it (although it doesn’t cover everything). And mostly it’s a collaborative effort; I’m lucky enough to work/live with wonderful people.
-
 ![Venn Diagram]({{ site.url }}images/venndiagram.png)
+
+I'm a design facilitator/doer whose work converges on three overlapping areas: interactions, systems and self. At least that’s how I make sense of it (although it doesn’t cover everything). And mostly it’s a collaborative effort; I’m lucky enough to work/live with wonderful people.
+
+![Redfront Logo]({{ site.url }}images/redfrontlogo.png)
 
 The majority of my work is carried out through [Redfront](http://redfront.co.uk), my human interaction agency. In addition to working for clients I spend my time creating new tools for design, and sharing them with people; I’ve recently been involved with design projects for data, legal contracts, agile methodology and sharing startups.
 
+![Data Loop]({{ site.url }}images/dataloop.png)
+
 As part of Redfront's data interactions work I'm currently writing a book. The first version, with new tools and approaches for designing with data, will be out very soon. If you're interested you can join [the mailing list](http://eepurl.com/br95wv). Redfront’s data exploration also led to me becoming a co-founder of Open Data Institute Node [ODI Devon](http://devon.theodi.org).
 
+![Beyond]({{ site.url }}images/beyond.png)
+
 [Beyond](http://beyond.place) is about how we participate in living systems to support more sustainable lifestyles. For now we’re bringing people together and building networks through events like last year’s [Beyond the Smart City](http://beyond.place/btsc15/) or the more recent [ThingsCamp](http://beyond.place/thingscamp), but that’s not all we’re working on.
+
+![The Self Agency]({{ site.url }}images/theselfagency.png)
 
 [The Self Agency](http://theself.agency), which launched in April 2016 in Barcelona, is an opportunity to explore a real focus on the self and how this foundation can help support more human-scale projects. There’s a [Medium Publication](https://published.theself.agency/) if you’re interested in some of the thinking behind it and we’ve also been [podcasting](https://soundcloud.com/the-self-agency).
 
