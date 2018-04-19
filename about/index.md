@@ -1,7 +1,7 @@
-- - - -
+---
 layout: post
 title: About
-- - - -
+---
 ![Venn Diagram]({{ site.url }}images/venndiagram.png)
 
 I'm a design facilitator whose work converges on three overlapping areas: interactions, systems and self.
