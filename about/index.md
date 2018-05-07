@@ -2,8 +2,6 @@
 layout: post
 title: About
 ---
-![Venn Diagram]({{ site.url }}images/venndiagram.png)
-
 I'm a design facilitator whose work converges on three overlapping areas: interactions, systems and self.
 
 The majority of my work is carried out through [Redfront](http://redfront.co.uk), my human interaction agency. In addition to working for clients I spend my time creating new tools for design, and sharing them with people; I’ve recently been involved with design projects for data, legal contracts, agile methodology and sharing startups.

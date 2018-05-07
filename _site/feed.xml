@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?> <feed 
+xmlns="http://www.w3.org/2005/Atom">
+	
+	<title type="text" xml:lang="en">mistergough.com</title>
+	<link type="application/atom+xml" 
+href="http://mistergough.com//feed/" rel="self"/>
+ 	<link type="text" href="http://mistergough.com/" 
+rel="alternate"/>
+	<updated>2018-05-07T21:29:31+02:00</updated>
+	<id>http://mistergough.com/</id>
+	<author>
+		<name>mistergough.com</name>
+	</author>
+	
+	
+	<entry>
+		<title>Pointless Fun</title>
+		<link href="http://mistergough.com//2016/07/23/pointless-fun.html"/>
+		<updated>2016-07-23T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2016/07/23/pointless-fun</id>
+		<content type="html">&lt;p&gt;The recent launch of Pokemon Go has spawned the inevitable rash of articles about how how we can harness the game’s popularity for all sorts of alternative outcomes, but most irritating of all perhaps is the way the formal education community has sought to use it as a way of (and there’s no nicer way I can think of putting this) tricking kids into paying attention to far less interesting things.&lt;/p&gt;
+
+&lt;p&gt;The implication from educators is that things like Pokemon Go are ultimately pointless: children might enjoy them—maybe even get a little addicted—but they’re the activity equivalent of empty calories. From this view comes an assumption that educators have some kind of duty to turn this pointless fun into something meaningful.&lt;/p&gt;
+
+&lt;p&gt;To me this perspective is fascinating, firstly because of the way it reinforces educators as the arbiters of what has value, but also in the way it places abstract knowledge at the heart of education; in other words, doing things is only really a way of learning things.&lt;/p&gt;
+
+&lt;p&gt;When we treat children’s passions as incidental to the real focus of learning—or worse, when we exploit them for our own purposes—we make a clear statement about what’s important. In formal education that inevitably means abstract knowledge or, to be more specific, knowledge that can be tested.&lt;/p&gt;
+
+&lt;p&gt;But imagine for a moment that instead of showing children how a game could help them learn maths we showed them how an understanding of maths made them better at a game. What do we need to win at Pokemon Go: statistics, calculus, game theory?&lt;/p&gt;
+
+&lt;p&gt;This shift of focus would be interesting, but it’s still an attempt to add unnecessary structure to something: it’s still an adult trying to rethink the relationship between learning and playing when, in reality, the whole thing is far more fluid. Children naturally seek out the knowledge they need to do what they want, and this “pull” approach to learning is at the heart of unschooling.&lt;/p&gt;
+
+&lt;p&gt;In contrast, formal education frames living as a way of gaining knowledge, rather than knowledge becoming a way to live better. But as long as we make knowledge the overall aim, and living just a means to an end, we continue to devalue childhood, and perhaps everything that comes after.&lt;/p&gt;
+
+&lt;p&gt;All we can say about Pokemon Go is that it is what it is: if children enjoy it then it serves its purpose. They will learn from it, yes, but any attempt by adults to rationalise that learning is almost certainly doomed to failure.&lt;/p&gt;
+
+&lt;p&gt;Learning is a far deeper and more personal thing than we can truly understand, and at the same time inextricable from living. Whether we’re attempting to harness someone’s interest to make them learn what we think is important, or trying to rationalise the interest itself, we’re imposing the observer’s own world view.&lt;/p&gt;
+
+&lt;p&gt;Real learning is a way for the learner to make sense of the world and develop their own way of relating to it. All of us need to allow, support and encourage that very personal drive, however it happens.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Organisation as Technology</title>
+		<link href="http://mistergough.com//2016/06/08/organisation-as-technology.html"/>
+		<updated>2016-06-08T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2016/06/08/organisation-as-technology</id>
+		<content type="html">&lt;p&gt;In developing ideas and conversations around &lt;a href=&quot;http://theself.agency&quot;&gt;The Self Agency&lt;/a&gt; we’ve needed to reframe our perceptions of organisations; when designing for the individual agent before the organisation this reframing helps us to articulate a more coherent relationship.&lt;/p&gt;
+
+&lt;p&gt;To date, my favourite definition of organisations has described them as “ways of organising”; this is immediately useful as it moves us away from the notion of an organisation as an entity in itself. Organisations as verb—as ways of bringing people together for something—provides a more useful focus.&lt;/p&gt;
+
+&lt;p&gt;After all, when we think of an organisation as a thing, it potentially becomes a vessel, something with a clearly defined inside and outside: increasingly useless as defining elements of the mental model of organisations. But more limiting is the way in which it sets an arbitrary boundary on the role of the individual: we become creators or consumers—inside or outside—when in fact we’re always both (and much more).&lt;/p&gt;
+
+&lt;p&gt;The verb perspective, the organisation as way of organising, isn’t perfect either. And so it’s increasingly made more sense to consider the organisation as a technology, in other words a tool, or set of tools, of varying complexity. Wikipedia defines a technology as:&lt;/p&gt;
+
+&lt;p&gt;“the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives”&lt;/p&gt;
+
+&lt;p&gt;Not only does this suit the definition of an organisation rather well, but it leads us on to consider how the relationship between individuals and organisations can be better conceived; the organisation-as-technology metaphor provides us with a more useful way of framing the individual. It becomes an enabler.&lt;/p&gt;
+
+&lt;p&gt;Rather than just a way of holding diverse people together, it provides a multi-faceted system that can be optimised for individual agency. In the way that simple technologies might enable one person to achieve one task, complex technologies can enable all manner of connections to support meaningful value creation. People become far more than components.&lt;/p&gt;
+
+&lt;p&gt;A technology metaphor also provides an easier way to foster uniqueness. We’ve begun to see organisations as places where we can install apps or operating systems, in many ways a reinforcement of the organisation-as-vessel view. One major problem with considering organisations to be something we can install something on/in is that we lose the individuality that is part of an organisation’s reason to exist.&lt;/p&gt;
+
+&lt;p&gt;We’ve seen this problem surface very quickly in organisations where organisational designs like Holacracy have been “installed”: in many cases it fails to suit the unique purpose and humanity of the organisation. This may seem obvious — that we can’t run all organisations exactly the same way — but the real limitation in thinking comes when we constrain ourselves to searching for an alternative operating system. It’s not the specific operating system that’s the problem but the mental model itself.&lt;/p&gt;
+
+&lt;p&gt;There are obvious parallels in computer technologies. A defining technology battle of the nineties, between Macs and PCs, largely came down to a battle of operating systems, and to a limited extent processing power. Either way, the parameters of the battlefield were somewhat narrow.&lt;/p&gt;
+
+&lt;p&gt;The real disruption came with a new technology, not operating system: the move to smartphones. And we see similar battles raging now. Competitive advantage has been won in all sorts of industries not from improvements in the operating systems (say, hotel brands) but in radical rethinks of the technologies (like Airbnb).&lt;/p&gt;
+
+&lt;p&gt;But this isn’t really about competitive advantage, or disruption: redefining organisations as technologies isn’t just about providing a better outcome for the organisation. The purpose of computers is not computing; the purpose is providing a means for humans to do something of value.&lt;/p&gt;
+
+&lt;p&gt;And so this should be the primary reason for redefining organisations as technologies: to provide a better way of creating the means by which humans can further their individual agency and achieve better outcomes.&lt;/p&gt;
+
+&lt;p&gt;The organisation-as-technology idea also provides us with a way of identifying the unique value of the organisation. When organisations are only perceived as differentiated by cultural differences, or minor variability in their operating systems, then they become interchangeable and disposable.&lt;/p&gt;
+
+&lt;p&gt;By way of contrast, a proprietary technology is a completely different thing: it is uniquely fit for purpose.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Soft and Malleable</title>
+		<link href="http://mistergough.com//2016/05/29/soft-and-malleable.html"/>
+		<updated>2016-05-29T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2016/05/29/soft-and-malleable</id>
+		<content type="html">&lt;p&gt;Yesterday I helped out an Internet of Things (IoT) &lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23ThingsCamp&amp;amp;src=tyah&quot;&gt;event&lt;/a&gt; for pretty much anyone who wanted come along and learn/tinker/hack/build/break. If you’re new to the technology one of the things that might strike you is the cheapness, availability and increasing simplicity of much of it.&lt;/p&gt;
+
+&lt;p&gt;We live in a world where pretty much anything is possible. I don’t mean this in just the context of IoT, but rather in the context of everything. Between the internet, cheap electronics, developments in digital fabrication, even alternative models of democracy and ownership brought about through connectedness, we can—with the interest and will to do it—make almost anything.&lt;/p&gt;
+
+&lt;p&gt;And yet we don’t. There are, I’m sure, all sorts of reasons for this—from a lack of interest to fear—but I can’t help wondering if there isn’t something more fundamental in all of us; in the model we have in our heads that describes the world.&lt;/p&gt;
+
+&lt;p&gt;From an early age we learn that the world is hard and people are soft. We even have a phrase, “soft skills”, to describe those skills that are about people. We “mould” people through education, while at the same time we teach them indisputable facts about the world. Hard facts.&lt;/p&gt;
+
+&lt;p&gt;So people are designed, squeezed around the hard edges of the world. And all too often those people break or they stretch too far or get flattened by the hard edges when the hard edges aren’t real: they’re just perceived. And many times those hard edges are shored up by other people.&lt;/p&gt;
+
+&lt;p&gt;Sometimes there might be a little wiggle room: the opportunity to mould things. Within reason, like choosing the colour of something or changing our avatars. But controlled freedom can be worse than no freedom. It’s padding, a buffer between us and the things that are softer than we imagine.&lt;/p&gt;
+
+&lt;p&gt;In reality, the softness of the world—its malleability—is not the people in it, or even just the tiny interfaces between those people and the Hard Things. The softness and malleability of the world is everything but the people. And a failure to realise this is part of who we are from an early age; it’s almost inconceivable, even if we get shown again and again. Even if deep down we really know.&lt;/p&gt;
+
+&lt;p&gt;So I know that one event, one small opportunity to see what we can make, isn’t anywhere near enough to fully alter this fundamental perspective, but people are picking at it everywhere. And if we keep at it—if we keep bringing people together with each other and the means to mould what’s really, genuinely soft—then the balance will shift.&lt;/p&gt;
+
+&lt;p&gt;In the process—in embracing the malleability—the reversed perspective will help us find the hard edges of people again. Realising together that the world is ours to shape inevitably brings about a deeper respect for our own abilities to shape it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Where It Lives</title>
+		<link href="http://mistergough.com//2016/05/22/where-it-lives.html"/>
+		<updated>2016-05-22T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2016/05/22/where-it-lives</id>
+		<content type="html">&lt;p&gt;I’ve accumulated a lot of digital clutter over the years: personal blogs, company sites, side project paraphernalia. Every now and again I like to go back and sort it out, even if it can be overwhelming.&lt;/p&gt;
+
+&lt;p&gt;Regular updating is also necessary when the platforms I use change their functionality, or simply come and go. For a long time I had a blog on Wordpress; more recently I’ve moved that to my own domain, running on Jekyll. You may be reading this on there, or maybe on Medium; that’s really what this post is all about.&lt;/p&gt;
+
+&lt;p&gt;Sites like Medium make it easier and more tempting to just publish everything we write on them. But articles like this from &lt;a href=&quot;http://scripting.com/liveblog/users/davewiner/2016/01/20/0900.html&quot;&gt;Dave Winer&lt;/a&gt; suggest that we stop and think before we launch fully into a Medium-only presence. Dave himself publishes on his own site first and then to Medium via RSS. It’s worth thinking about as an approach, not just because it makes us think about ownership, but also because it provides some clarity around what to publish where.&lt;/p&gt;
+
+&lt;p&gt;Medium’s new Publication features are great for getting content online easily, but they deliberately pull us further away from owning our own content. What we write and share increasingly goes into the stream, just like tweets. We feel like we have a branded presence, that the space we write in is ours, but little by little we’re letting go.&lt;/p&gt;
+
+&lt;p&gt;I’ve recently been thinking a lot about where content physically resides, including researching the vagueries of running my own mail server. Much of what’s involved to really own digital things, to know where they are, is way beyond most people’s capabilities, including mine. That’s not to say it’s impossible, but that the work and investment required often outweighs the benefits.&lt;/p&gt;
+
+&lt;p&gt;However, that’s not the case for everything. While a mail server might be just too much stress for the reward, owning—keeping—what we write isn’t actually that difficult. My recent exploits with setting up a static blog have brought some pleasure in knowing that I’m basically saving text files on my computer; everything I write on mistergough.com is created on my computer first and shared from there.&lt;/p&gt;
+
+&lt;p&gt;The best thing about blogging this way is that it now makes real sense to publish everything, for whatever project, on my own blog first. Previously this blog didn’t really serve that purpose: I used it for random posts, things that didn’t fit with any particular theme. But the increasingly ephemeral nature of platforms like Medium makes something as tangible as my static blog even more useful.&lt;/p&gt;
+
+&lt;p&gt;And so, I’m starting the work of putting all my writing through mistergough.com before importing elsewhere. Medium’s import feature even links back automatically to the origin of the post. Of course this requires a little more work than just publishing everything on Medium, but it feels right. All these platforms want our attention, our creativity, our efforts, to build their own products. We all know that, but perhaps we don’t really know how easy it is just to tweak things a little bit back in our favour.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Static Blogging</title>
+		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
+		<updated>2015-08-09T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2015/08/09/static-blogging</id>
+		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
+
+&lt;p&gt;Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.&lt;/p&gt;
+
+&lt;p&gt;There are lots of ways to generate static files, including the completely manual approach, but for this blog I decided to use  &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is a processing application that pulls together separate files and combines them into finished HTML pages. The point of this it to make it easier to separate content and presentation so that blog posts can be written in, say, &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;, just as with this one. It also means that you can reuse snippets of HTML in lots of places, such as page headers and footers.&lt;/p&gt;
+
+&lt;p&gt;Anyway, for an overview of Jekyll &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;take a look at the website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another reason for using Jekyll is the fact that it’s supported by &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, a simple website hosting platform that works from a dedicated Github repository. For free.&lt;/p&gt;
+
+&lt;p&gt;There are many different ways to set up a Jekyll and Github blog, and the right approach will depend largely on personal preferences, but &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; should give you an idea of what’s involved.&lt;/p&gt;
+
+&lt;p&gt;The first step is to get a Github account, if you don’t already have one. Once you have an account you can set up Github Pages as a dedicated respository.&lt;/p&gt;
+
+&lt;p&gt;After this you should clone the remote repository to your local computer. Github provides full instructions for this. Scrolling down &lt;a href=&quot;https://pages.github.com/&quot;&gt;this page&lt;/a&gt; you’ll find instructions for getting Jekyll up and running. This can be a bit fiddly but what you want to end up with is jekyll running on your local computer for generating static files and enough of an understanding of git to push those files up to the Github repository.&lt;/p&gt;
+
+&lt;p&gt;Once you have the basics working you can play around with design, structure and content. Every update, whether it’s a design change or new post becomes a matter of pushing the modified files to your repository.&lt;/p&gt;
+
+&lt;h3 id=&quot;css&quot;&gt;CSS&lt;/h3&gt;
+
+&lt;p&gt;Jekyll has built in support for &lt;a href=&quot;http://sass-lang.com/&quot;&gt;CSS extension Sass&lt;/a&gt;, which is well worth learning and using if you don’t already. Of course, if you don’t want to get into the design side at all you can just download and use ready made themes (&lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt; is worth a look). You can even use the theme I’ve built here by cloning all the site files &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io&quot;&gt;from my own repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
+
+&lt;p&gt;Markdown is a simple system for styling text documents. Jekyll has built-in support for Markdown which means that you can write your posts in a more user-friendly way and then let Jekyll handle the rest. It’s worth learning the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown syntax&lt;/a&gt; as it’s become something of a standard.&lt;/p&gt;
+
+&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
+
+&lt;p&gt;The biggest drawback to Jekyll at this point is the lack of any good static commenting systems. At this point &lt;a href=&quot;https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions&quot;&gt;Disqus&lt;/a&gt; remains the most effective commenting system. It’s pretty easy to set up even if it’s not to everyone’s taste.&lt;/p&gt;
+
+&lt;h3 id=&quot;importing&quot;&gt;Importing&lt;/h3&gt;
+
+&lt;p&gt;Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of &lt;a href=&quot;http://import.jekyllrb.com/&quot;&gt;import extensions&lt;/a&gt; for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.&lt;/p&gt;
+
+&lt;h3 id=&quot;feeds&quot;&gt;Feeds&lt;/h3&gt;
+
+&lt;p&gt;Site feeds turn out to be pretty simple too. You can use the &lt;a href=&quot;https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml&quot;&gt;feed.xml&lt;/a&gt; template in my own repository without too much configuration or look around for other people’s. There are plenty out there.&lt;/p&gt;
+
+&lt;p&gt;So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.&lt;/p&gt;
+
+&lt;h3 id=&quot;difficulty&quot;&gt;Difficulty&lt;/h3&gt;
+
+&lt;p&gt;I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Principles and Architecture</title>
+		<link href="http://mistergough.com//2015/07/23/principles-and-architecture.html"/>
+		<updated>2015-07-23T04:59:04+02:00</updated>
+		<id>http://mistergough.com//2015/07/23/principles-and-architecture</id>
+		<content type="html">&lt;p&gt;How do we build design principles into the deepest architecture of things, into the algorithms and mechanisms?&lt;/p&gt;
+&lt;p&gt;It goes deeper than an ethos or mission. Those things change, get re-evaluated. Good intent can be reduced to a veneer while the core values are dismantled and exploited. &lt;/p&gt;
+&lt;p&gt;But what if something couldn&#39;t exist at all without the complete set of design principles? Like a human body, every system present and functioning or no life at all. &lt;/p&gt;
+&lt;p&gt;What are the means by which the architecture and the principles become inseparable? More importantly, how does this inseparability transcend enforcement and become a fundamental aspect of existence? &lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Open Data Camp</title>
+		<link href="http://mistergough.com//2015/02/23/open-data-camp.html"/>
+		<updated>2015-02-23T11:09:27+01:00</updated>
+		<id>http://mistergough.com//2015/02/23/open-data-camp</id>
+		<content type="html">&lt;p&gt;Last weekend I attended Open Data Camp in Winchester; my first ever &quot;Camp&quot;. As someone who works primarily in design, attending designey events for designers, I&#39;m not used to taking part in the more tech/data end of the events spectrum so I wanted to get my thoughts down.&lt;/p&gt;
+&lt;p&gt;I&#39;m not going to go into the format or general organisation of the weekend. To me it seemed to go pretty smoothly. I knew where to be, when, and I got plenty to eat. We never ran out of coffee. I&#39;d like to make particular mention of one of the brilliant organisers, Lucy Knight, not least because I&#39;m lucky enough to work with her.&lt;/p&gt;
+&lt;p&gt;I attended a pretty diverse range of sessions: democracy, food, design, and mapping the benefits of open data. I enjoyed them all, although I repeatedly found that the conversation just started as the session ended. From past experience it&#39;s usually the case. As the first Open Data Camp it&#39;s probably more expected than in other, established events like GovCamp, but it&#39;s no bad thing; it helps to plot the course.&lt;/p&gt;
+&lt;p&gt;So, general experiences aside, a few things that stood out for me.&lt;/p&gt;
+&lt;h3&gt;Public Sector Focus&lt;/h3&gt;
+&lt;p&gt;It&#39;s inevitable that there will be a strong focus on the public sector in an event like Open Data Camp. Most discussion in the UK around Open Data is still heavily connected with the public sector. And to be honest, if the public sector didn&#39;t push on the open data thing who knows how far we&#39;d have got by now.&lt;/p&gt;
+&lt;p&gt;My concern is around where we go next. For me, some of the most useful data, the most vital, is going to come from outside the public sector. Finding ways to get corporates to open up what they have is a difficult but worthwhile challenge and I feel like this needs to be pursued as aggressively, if not more so, as open data advocates are pursuing the public sector.&lt;/p&gt;
+&lt;p&gt;How can events like Open Data Camp help here? Is there a danger that the public sector focus makes it easier for private entities to slip the net? What are the routes in to these silos?&lt;/p&gt;
+&lt;p&gt;The other issues for me around the public sector focus is the potential for us to accept the public sector as it is. I was thinking about this in the session on democracy. With all the technology and data available to us is it enough to engage with machinations of democracy as they currently stand? How can technology, data (and design) help us to advance democracy at its most fundamental level?&lt;/p&gt;
+&lt;h3&gt;Design and Data&lt;/h3&gt;
+&lt;p&gt;I&#39;m particularly interested in how to get data into the hands of designers and in fact I ran a session on this. It was a difficult one. The first thing I realised was that my definition of designer might not have been shared with everyone in the room. When we talk about data and design the natural common ground is web/app development. In this context it doesn&#39;t seem too much to expect designers to learn a bit of code and help bridge the gap that way.&lt;/p&gt;
+&lt;p&gt;But many designers are a long way from this. I have to remind myself that my interest in coding says more about me (geek) than the design profession as a whole and that the real common ground comes from creative ways to translate the essence of what each field is about. To this end I think I saw a card game in one of the sessions. We need more things like this. It would be remiss of me not to mention &lt;a href=&quot;http://redfront.co.uk/blog/the-data-loop/&quot; target=&quot;_blank&quot;&gt;Redfront&#39;s own Data Loop&lt;/a&gt; too.&lt;/p&gt;
+&lt;h3&gt;Benefits&lt;/h3&gt;
+&lt;p&gt;Martin Howitt ran a session on identifying the benefits of open data for different stakeholder groups. Bias aside (it appeals to my designer tendencies but I&#39;m also lucky enough work with Martin as well) this seems to me to be a vital undertaking. If we&#39;re going to unlock the real potential of open data then we need more people to understand it, make use of it, demand it.&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested in contributing to the benefits mapping of open data you can help by adding your comments &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1RmAm9YTwsdiz25Fju_-RTFN4LG7SzZKhmNKm_HoAFJ4/edit#gid=0&quot; target=&quot;_blank&quot;&gt;to this spreadsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Hacking Together&lt;/h3&gt;
+&lt;p&gt;One of the sessions I was in made me realise just how much work there is to be done in translating open data into useful things. There are some clever people out there doing clever things with data. There are challenges and hackathons that produce fascinating new applications. And yet the propagation, evolution and adoption of the outputs seems negligible in comparison.&lt;/p&gt;
+&lt;p&gt;From a biased designer&#39;s point of view I might say that the problem could lie in a missing human element. Are we successfully engaging and designing for the people who really need or want these apps? Could we do more to bring humanity into the process? As I talked about above, I&#39;m passionate about the design component of open data, and as the technology landscape introduces new platforms and devices we need to be even surer that we&#39;re embarking on its exploration as a diverse groups of makers and users.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Think Piece</title>
+		<link href="http://mistergough.com//2015/01/15/think-piece.html"/>
+		<updated>2015-01-15T12:18:24+01:00</updated>
+		<id>http://mistergough.com//2015/01/15/think-piece</id>
+		<content type="html">&lt;p&gt;Blog commenting systems have evolved very little since their inception. One of the more interesting examples of some kind of evolution was Branch&#39;s inline commenting system; part of the platform&#39;s attempt to encourage thoughts-in-progress rather than finished pieces. &lt;/p&gt;
+&lt;p&gt;Medium has similar functionality at the paragraph level but it fails to realise the potential due to its focus on polished editorial, and so the nearest thing we have to an unfinished ideas platform is Twitter. But still we rarely see the level of vulnerability and open thinking necessary to make it work there. &lt;/p&gt;
+&lt;p&gt;The ability to share half-formed ideas is a vital thing. Face-to-face conversations  are built on these foundations. Without them we&#39;d just be trading a series of pre-prepared monologues. And yet the internet still doesn&#39;t seem to effectively support this fundamental behaviour.&lt;/p&gt;
+&lt;p&gt;One of my favourite ideas development approaches is World Café. Its primary focus is to promote conversation, half-formed thoughts, as a means of drawing out the good stuff. To do that it encourages us to huddle together, relax, be human. &lt;/p&gt;
+&lt;p&gt;But World Café isn&#39;t about just talking. It&#39;s designed to get our thoughts down, make them visible. And very little on the Internet comes close to this kind of all-in talking and doing.&lt;/p&gt;
+&lt;p&gt;The power of conversation in the right context is huge. Early conversations where ideas are hazy provide the true substance of individual and collective originality. They are the earliest prototypes of everything we do and they can take form with remarkable speed. &lt;/p&gt;
+&lt;p&gt;But where are the digital enablers for what we instinctively know? Why are we building more and more platforms for fully-formed thoughts when we should be tackling the barriers to unguarded originality?&lt;/p&gt;
+&lt;p&gt;Is it that the business models for the internet are built around content? Do they require finished think-pieces to effectively commoditise our thoughts? Is it a technological failing? Or is it a fear of sharing our flimsiest, most fleeting thoughts that stops us from realising the  value of collective uncertainty?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Group Love</title>
+		<link href="http://mistergough.com//2014/11/23/group-love.html"/>
+		<updated>2014-11-23T11:20:16+01:00</updated>
+		<id>http://mistergough.com//2014/11/23/group-love</id>
+		<content type="html">&lt;p&gt;Facebook&#39;s recent release of a standalone Group app and its less recent Messaging app are indicators of something important in the way we use social networks.&lt;/p&gt;
+&lt;p&gt;One of my least favourite things about social media is the way in which all new platforms perpetuate the follower or friend model; one of the obvious criticisms of something like Ello is that its architecture requires us to scale our connections. It wants to replicate Twitter or Facebook. Just without the ads. &lt;/p&gt;
+&lt;p&gt;All new apps seem to want to replicate the fundamental dynamics of Twitter or Facebook. The thing is, the longer Twitter and Facebook go unchallenged, the harder it gets to compete with a platform that embeds itself more into our lives the longer we use it. &lt;/p&gt;
+&lt;p&gt;So, one of the reasons Ello might not last is because few people want to rebuild what they already have on other platforms. We&#39;ll happily stare at a few ads to avoid the work of starting again. &lt;/p&gt;
+&lt;p&gt;But Facebook&#39;s unbundling of its core functions, and purchase of companies like Whatsapp, are symptoms of an interesting paradox in the pervasive social network architecture. We&#39;re unwilling to throw away the hard-won networks of Facebook and Twitter but at the same time we don&#39;t find them terribly useful. &lt;/p&gt;
+&lt;p&gt;So, apps that allow us to message individuals and groups, or create fluid groups based on interest, are popular because they make social networks genuinely useful. And they sit uneasily alongside the disengaged, Liking and Faving sprawl of the networks&#39; core business. Until they get unbundled. &lt;/p&gt;
+&lt;p&gt;It&#39;s no surprise that Facebook paid what it did for Whatsapp. It works, and its backbone is as lightweight as our mobile phone numbers can be.&lt;/p&gt;
+&lt;p&gt;Real competition for Facebook and Twitter isn&#39;t going to come from platforms like Ello, who insist on attacking the parts of the business that few people care enough about to reimagine. It&#39;ll come from things even better than Whatsapp, platforms that abandon the follower/friend model altogether and focus on meaningful usability and experience.&lt;/p&gt;
+&lt;p&gt;At some point, caring about how many friends and followers we have will be the preserve of the self-obsessed and the corporate. What really matters is what we can do; how we can embrace the fluidity of the web as a living stream, and make the most of it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Learning Muscles</title>
+		<link href="http://mistergough.com//2014/09/25/learning-muscles.html"/>
+		<updated>2014-09-25T13:26:19+02:00</updated>
+		<id>http://mistergough.com//2014/09/25/learning-muscles</id>
+		<content type="html">&lt;p&gt;Weight training works by pushing muscles to breaking point and then allowing them to recover, and grow. Formal education doesn&#39;t work this way. It supports and guides, providing children with a safe environment to acquire knowledge.&lt;/p&gt;
+&lt;p&gt;We already exerience information overload, so it seems pretty likely that a couple of key skills for our future society will be the ability to learn and the ability to filter.&lt;/p&gt;
+&lt;p&gt;So, how do we prepare children for this reality? Do we guide them through a supporting learning experience or do we throw them into chaos?&lt;/p&gt;
+&lt;p&gt;As my children flit from one project to the other, from one interest to the next, I&#39;ve begun to realise that what they&#39;re learning isn&#39;t the topic itself but something more meta. They&#39;re exercising their learning muscles, learning to learn, learning to filter.&lt;/p&gt;
+&lt;p&gt;I&#39;m understanding that I can&#39;t teach them what they want to know; instead they&#39;re developing the parts of their brains that help them to do that for themselves. And my role becomes much more about getting out of the way, much more about connecting them with the chaos.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Common Sense</title>
+		<link href="http://mistergough.com//2014/08/14/common-sense-2.html"/>
+		<updated>2014-08-14T11:29:04+02:00</updated>
+		<id>http://mistergough.com//2014/08/14/common-sense-2</id>
+		<content type="html">&lt;p&gt;When I was growing up the adults in my life often judged me on the basis of something they called common sense. For them it was some sort of unquestionable constant.&lt;/p&gt;
+&lt;p&gt;Its values helped them to assert their dominance over young people, children, me. Suffice to say, I lacked it. And the constant reminder that I lacked it contributed in no small part in my growth from an awkward, unsure child to an awkward, unsure teenager.&lt;/p&gt;
+&lt;p&gt;Common sense is all about the basics. Or at least the basics from the perspective of the adults I grew up with. Does this young person know how to sweep a driveway? Do they know how to hold a hammer? In other cultures theses things might not matter too much. In my circles they were the cornerstones.&lt;/p&gt;
+&lt;p&gt;And so, every time I swept a driveway, or held a hammer I felt eyes on me. Could I do the most basic jobs of humanity? I felt a heightened awareness of my inadequacy. I felt inferior, awkward. I couldn&#39;t even do the simple things. I most certainly lacked common sense.&lt;/p&gt;
+&lt;p&gt;Common sense is a great way to keep a hold over people. It gives you the capability high ground. Whatever else that person could do, from playing musical instruments to programming computers, if they lacked common sense then, well, what use were they?&lt;/p&gt;
+&lt;p&gt;Clinging to an idea of common sense is a brilliant defensive position. You can use it anywhere. See that clever person on the news? The scientist with the breakthrough? Probably not an ounce of common sense. And through that defence nobody can be better than you.&lt;/p&gt;
+&lt;p&gt;But common sense as a protective strategy is not what this post is about. It&#39;s what got me thinking about it: that sense of awkwardness, the constant thread of inadequacy it instills, and how it lingers. But then I realised that there&#39;s a wider issue.&lt;/p&gt;
+&lt;p&gt;The real issue is that we believe in a core set of knowledge at all. After all, beyond being able to survive, and reproduce (ironically one of the common sense things we prefer not to educate young people about), what actually is common sense?&lt;/p&gt;
+&lt;p&gt;And yet we build our whole society on a single body of knowledge. By a certain age there are things we must know. If our children don&#39;t know those things then they&#39;ll &quot;fall behind&quot;. But the question is, &quot;fall behind what?&quot;&lt;/p&gt;
+&lt;p&gt;If the survival of the human species is dependent on everyone knowing solid arithmetic then we’re in luck. But I suspect that what we really need is people who couldn&#39;t care less about times tables; people who have no idea how to hold a hammer; people obsessed with honey bees, photons, the way sea currents manipulate the sea bed.&lt;/p&gt;
+&lt;p&gt;We need people with a complete lack of common sense.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Economic Thinking</title>
+		<link href="http://mistergough.com//2014/07/17/economic-thinking.html"/>
+		<updated>2014-07-17T07:28:07+02:00</updated>
+		<id>http://mistergough.com//2014/07/17/economic-thinking</id>
+		<content type="html">&lt;p&gt;It wouldn&#39;t be an exaggeration to say that most of the world&#39;s problems are directly caused by either:&lt;/p&gt;
+&lt;p&gt;A. A misunderstanding of economics &lt;br /&gt;B. A misuse of economics&lt;/p&gt;
+&lt;p&gt;And yet, an understanding of economics seems to be incredibly rare, whether it&#39;s a general understanding we all share or the deep understanding we expect from those in charge.&lt;/p&gt;
+&lt;p&gt;Academia probably has a lot to do with the poor state of economics. Certainly when I was studying the progression routes seemed to be either further academic obscurity or working for a bank; academic fame versus making money from money.&lt;/p&gt;
+&lt;p&gt;And yet, what we really need economists for is to bring an interconnected logic to the world; to use an understanding of scarcity, cause and effect, equilibrium for a more worthwhile purpose than making money for other people or looking clever. &lt;/p&gt;
+&lt;p&gt;And most importantly it would be great if some of that understanding became embedded in our culture, so that when we&#39;re told a story about something in the press we can put it into context, maybe seek out the right information, relate it to other things. &lt;/p&gt;
+&lt;p&gt;How many of the worst periods in our history have exploited a lack of economic thinking? When we believe that the arrival of a few immigrants signals the collapse of our economy then something has gone very wrong.&lt;/p&gt;
+&lt;p&gt;I personally believe that economics is one of the best critical thinking subjects out there, and yet schools so often teach it as facts and figures, names and dates. We need people to come out of school able to take on the biggest issues we face, but we don&#39;t seem to be doing much to make that happen.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Design Units</title>
+		<link href="http://mistergough.com//2014/07/08/design-units.html"/>
+		<updated>2014-07-08T07:53:25+02:00</updated>
+		<id>http://mistergough.com//2014/07/08/design-units</id>
+		<content type="html">&lt;p&gt;The more complex the unit of design, the less we are likely to question it. Simple products can be easily evaluated; when a bottle opener doesn&#39;t work we&#39;re happy to point to its flaws. But we rarely do this with systems, organisations, governments.&lt;/p&gt;
+&lt;p&gt;We rely on our direct relationship with things to provide our opportunity to critique them. My nan&#39;s relationship with democracy often came down to which doorstopping man looked the &quot;nicest&quot;. That&#39;s not a criticism of her, it&#39;s simply a statement of how much mental energy we can all be bothered to expend on anything more abstract than that which we&#39;re shown.&lt;/p&gt;
+&lt;p&gt;Perhaps we judge our local government on whether our bins get collected. In democracy terms it&#39;s about as valid as the nice-looking man. In many cases this inability to think about anything bigger than our direct point of contact with something is used against us. Charities don&#39;t ask us to question whether the unit of a charity is the best way to help people in need, they just tell us the story of one person.&lt;/p&gt;
+&lt;p&gt;This blind acceptance of the core unit of design, whether it&#39;s a business or an entire system of democracy, changes over time. We&#39;re beginning to show a similar indifference to the fundamental existence of a whole new set of design units, from startups to platforms. And as with everything else we&#39;re falling for the actors without thinking about the play.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Subtractive Value</title>
+		<link href="http://mistergough.com//2014/07/04/subtractive-value.html"/>
+		<updated>2014-07-04T14:36:12+02:00</updated>
+		<id>http://mistergough.com//2014/07/04/subtractive-value</id>
+		<content type="html">&lt;p&gt;I was originally going to write something about a subtractive view of design, or rather how design should focus more on how to take things away than how to create. &lt;/p&gt;
+&lt;p&gt;After all, truly good designs simplifies, removes obstacles, eliminates problems. Good design brings clarity, reduces uncertainty. And yet we often think of design in terms of what we create, of the shiny newness. Whether it&#39;s the tangible output or the tools of the process we&#39;re always adding.&lt;/p&gt;
+&lt;p&gt;But even the most tangible of design objects, the prototype, is primarily concerned with subtraction; we prototype to reduce uncertainty, to take away the unknown. &lt;/p&gt;
+&lt;p&gt;It&#39;s easy to forget the core value of subtraction when so much of design is about creating, and there&#39;s a lot that could be written (and certainly has) about how to frame design in subtraction terms. What&#39;s more interesting, perhaps, is how subtraction could be more of a unifying framework for ways of working that intersect with design, such as the Agile and Lean approaches we&#39;ve been exploring, with others, more recently. &lt;/p&gt;
+&lt;p&gt;In each of these fields it&#39;s worth asking, &quot;what are we trying to take away?&quot; And in answering that question perhaps we get to a simpler set of principles through which to explore how we develop things of value in the best possible context. &lt;/p&gt;
+&lt;p&gt;In service design we are constantly trying to remove things: uncertainty around what to create, barriers to usage, walls between silos, misunderstanding of users&#39; needs. Many of these things apply to Agile approaches too. A focus on functioning outputs seeks to remove uncertainty in a similar way to the prototypes of design. Agile also works hard to remove the organisational barriers, to eliminate as much as is possible the obstacles to trust and shared purpose.&lt;/p&gt;
+&lt;p&gt;And with Lean, we&#39;re working hard reduce waste, to unblock whatever stands in the way of creating value. We&#39;re trying to remove the internal and external blocks, as much as internal and external is still a valid way of viewing things. &lt;/p&gt;
+&lt;p&gt;In everything that seeks to create value in the widest sense, from the people we make things for to the teams that help make them, the true focus should be subtraction. It&#39;s possible to dig deeper into it, create lists, explore frameworks, but that wasn&#39;t the aim of this post. It was something I was thinking about and wanted to start writing down. It would be good to know what others think. &lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Experiment and Strategy</title>
+		<link href="http://mistergough.com//2014/06/26/experiment-and-strategy.html"/>
+		<updated>2014-06-26T06:24:09+02:00</updated>
+		<id>http://mistergough.com//2014/06/26/experiment-and-strategy</id>
+		<content type="html">&lt;p&gt;The word &quot;experiment&quot; seems to have two, almost different meanings. One one hand we think of it as a one-off, radical thing; experimental art and music are out there, crazy, avant garde. The opposite of systematic, methodical.&lt;/p&gt;
+&lt;p&gt;On the other hand we have science. Experiments in science are a core process. They&#39;re how we do science and they&#39;re very much systematic and methodical.&lt;/p&gt;
+&lt;p&gt;Lean Startup reminded me of this apparent dichotomy. Lean Startup experiments are designed, methodical, iterative, repetitive (if done properly). In fact they become one of the only truly meaningful ways to learn anything, in the same way that babies learn: trying something new, making mistakes, trying something different. Human beings all grow up this way and then at some point in our lives most of us start to lose the will to experiment.&lt;/p&gt;
+&lt;p&gt;Eventually we start to see the experiment as something outside our normal behaviour, rather than the mode of our behaviour. If we&#39;re not careful we apply this outside view to everything in life. We forget that methodical concepts like strategy are heavily reliant on experiment. Rather than strategy being a known entity we execute, strategy is simply a framework for experiment, and what we do naturally as babies we need to design as adults.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Reality Friction</title>
+		<link href="http://mistergough.com//2014/06/03/reality-friction.html"/>
+		<updated>2014-06-03T19:16:58+02:00</updated>
+		<id>http://mistergough.com//2014/06/03/reality-friction</id>
+		<content type="html">&lt;p&gt;The last couple of weeks saw the sad demise of a really great app, How Do. It allowed you to take pictures of the steps involved in doing something interesting and leave some audio commentary along the way. It was a treasure trove of wonderful little tips and tricks, but sadly it&#39;s no more.&lt;/p&gt;
+&lt;p&gt;The thing is, I never properly used it. Yes, I browsed what was on there, and I had it installed on my phone. But never once did I leave a tip myself. I don&#39;t know what caused its founders to pull the plug but I&#39;m sure I wasn&#39;t the only one to like the idea without fully engaging.&lt;/p&gt;
+&lt;p&gt;When you&#39;re looking at your phone all the time, when it&#39;s your window on the world, it&#39;s very easy to use those apps that involve nothing more than your brain and your phone. There&#39;s little to separate a thought and a tweet. It&#39;s even easier to engage with something that starts and ends at the same interface; we can all retweet and we can all share links.&lt;/p&gt;
+&lt;p&gt;But when an app requires you to engage with the real world and create something that starts somewhere else, like when you&#39;re cooking, we end up with a sort of reality friction. We forget that the app exists. We remember when it&#39;s too late.&lt;/p&gt;
+&lt;p&gt;Marketing people grapple with a similar issue: Top of Mind. Companies like Coca Cola devote almost their entire marketing spend to one thing. When you go into a shop with a thirst they want you to think of Coke. At the crucial point they want you to associate Coke with Quenching. It&#39;s a split second decision; millions spent on a moment.&lt;/p&gt;
+&lt;p&gt;Most apps don&#39;t have that kind of budget, or the inclination to invest in what it takes to achieve that traditional ubiquity. So what do they do? Beyond the initial flurry of interest, how do they stay in our thoughts?&lt;/p&gt;
+&lt;p&gt;Recently I&#39;ve noticed more and more Push Notifications in Foursquare, a company that seems to be working on Top of Mind through direct action. And the technology works well for this purpose, however annoying it might be. GPS is the natural friend of Top of Mind for a geo-location app.&lt;/p&gt;
+&lt;p&gt;For many apps, however, there&#39;s a greater challenge. How do they know I&#39;m baking a special cake? How do they know I&#39;m tying a tricky knot? Technology gets us so far, like in the Foursquare example, but some of these challenges need deeper consideration.&lt;/p&gt;
+&lt;p&gt;If we&#39;re going to discover amazing things we need apps like How Do to thrive. It&#39;s not enough to know where someone is or what they&#39;re thinking. We want to engage vicariously with the physical world, the amazing things people can do, in ways that make us feel part of it. And yet it feels like we&#39;re still a long way off.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The Walls of the Universe</title>
+		<link href="http://mistergough.com//2014/04/01/the-walls-of-the-universe.html"/>
+		<updated>2014-04-01T13:42:05+02:00</updated>
+		<id>http://mistergough.com//2014/04/01/the-walls-of-the-universe</id>
+		<content type="html">&lt;p&gt;There&#39;s an exercise called The Five Whys. You may have heard of it. The aim is to keep asking &quot;why?&quot; until you get back to the root of an issue. It&#39;s a good exercise; it teaches us not to accept face value, but it also makes an assumption. It almost makes us believe that we are capable of a broad perspective, that we can fully escape the context of something.&lt;/p&gt;
+&lt;p&gt;Last week I was in another country, talking to someone about education. I have a lot of conversations about education, some self-initiated, others through no fault of my own. My position on education is pretty clear: I think that school is fundamentally wrong. I think that subjects, lessons, teachers and grades comprise the worst possible way for children to learn.&lt;/p&gt;
+&lt;p&gt;Most of the time, when I&#39;m talking to people in the UK, I can get this point across relatively easily. Not everyone agrees with it but more people than you might imagine will happily consider the perspective.&lt;/p&gt;
+&lt;p&gt;Most people in the UK don&#39;t realise how easy it is to take their children out of school here. Many don&#39;t even realise it&#39;s possible. Any yet they&#39;re often very quick to accept the fact, and engage with the possibilities.&lt;/p&gt;
+&lt;p&gt;However, in those countries where schooling is compulsory it&#39;s a very different picture. What&#39;s most noticeable is that many of the people in those countries find it really difficult to engage with the unschooling perspective on education. It&#39;s almost like we hit a wall.&lt;/p&gt;
+&lt;p&gt;But this post isn&#39;t about education, it&#39;s about context. What fascinates me about people in places where home education is illegal is that it often seems to define their perspective on it. I&#39;m not generalising or saying it&#39;s true of everyone but the conversations I&#39;ve had, where we appear to reach a limit of understanding, a fundamental disconnect, seem to suggest some hard-wiring.&lt;/p&gt;
+&lt;p&gt;This will be true of people in the UK on other topics of course. There will be things that are so programmed into us that almost no amount of &quot;Five Whying&quot; will enable us to escape our preconceptions. This seems increasingly the case when we talk about &quot;digital&quot;.&lt;/p&gt;
+&lt;p&gt;Free will is an impossible concept. I was watching my daughter playing Flappy Bird on my phone and thinking about this stupid notion of &quot;Digital Natives&quot;. Beyond all the assumptions that Digital is Good and that The Web Will Save Us, there are more damaging justifications around children&#39;s relationship with technology.&lt;/p&gt;
+&lt;p&gt;When we talk about how much children are into screens and technology we forget that we&#39;ve created this context for them. In many cases screens are thoroughly absorbing for children purely because they&#39;re better than the rest of the crap we&#39;ve made for them. Ask yourself whether you&#39;d rather learn your times tables or play Minecraft. It doesn&#39;t mean that Minecraft is the future. It just means that times tables aren&#39;t.&lt;/p&gt;
+&lt;p&gt;So, sometimes we have to remember that we haven&#39;t made anything particularly brilliant; we&#39;ve just created a little escape valve. The things we think are brilliant only seem that way because we mentally can&#39;t escape the context we live in. But we do need to escape that context, whether it&#39;s there because of society, or law, or our democratic system, or our love of technology. Sometimes it&#39;s there just because the alternative is impossible to comprehend, like a universe with no end.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The Lone Designer</title>
+		<link href="http://mistergough.com//2014/03/29/the-lone-designer.html"/>
+		<updated>2014-03-29T14:56:37+01:00</updated>
+		<id>http://mistergough.com//2014/03/29/the-lone-designer</id>
+		<content type="html">&lt;p&gt;One of the best graphic designers I ever met never used a computer. In fact he predominantly used a photocopier and pair of scissors. Once he&#39;d roughed out some ideas with cut and paste he&#39;d talk to other people to get everything into digital files; he&#39;d work with a typesetter, an artist, an illustrator.&lt;/p&gt;
+&lt;p&gt;He produced some great work, and it was real teamwork. But it wasn&#39;t just internal teamwork, it was client collaboration too. Everything began with a meeting. We&#39;d sit down together and work through the design as if we were both working on it. He&#39;d cut things out, stick them together. Scissors, sticky tape, pencils, democratic tools. We&#39;d look at typeface catalogues together, discuss colours.&lt;/p&gt;
+&lt;p&gt;Nothing was ever thrown over the wall. I didn&#39;t send him a brief and wait for something to come back. He didn&#39;t pass on a finished design to the typesetters. Projects remained in flux, part of a conversation, until the final piece of work was produced.&lt;/p&gt;
+&lt;p&gt;I&#39;ve thought more and more recently about how I want to continue this tradition in the small amount of graphic design work I do. And to help with that I&#39;ve been considering projects in four stages.&lt;/p&gt;
+&lt;h3&gt;1. Purpose&lt;/h3&gt;
+&lt;p&gt;Where does the purpose of graphic design come from? In many cases a client will decide that some work needs doing and have some idea of what the brief for that should be. This becomes enshrined in a document that forms the basis of the designer&#39;s work. But how likely is this to produce the right outcome?&lt;/p&gt;
+&lt;p&gt;A good designer will go back to a client with questions, attempt to clarify the brief. But how much is this ever a conversation and how much time is wasted when it isn&#39;t? This discussion, a step before anything visible is even produced, could be the most important part of the design process, so how do we ensure that it isn&#39;t just a handover?&lt;/p&gt;
+&lt;h3&gt;2. Paper&lt;/h3&gt;
+&lt;p&gt;Once the Purpose is established it might seem like the perfect time to sit down alone and design stuff. After all, designers are magicians. It&#39;s important that others don&#39;t see what goes on behind the scenes. Except that my fondest memories of working with a graphic designer involved sitting down together and producing material there and then.&lt;/p&gt;
+&lt;p&gt;Of course much of this was rough, photocopied drafts. But it gave us a shared understanding. It also saved a huge amount of time and the reason that when I took a course in graphic design I chose one without computers. This way of working can be really liberating.&lt;/p&gt;
+&lt;h3&gt;3. Pixels&lt;/h3&gt;
+&lt;p&gt;Things get more tricky when computers are involved. Much of the standard design software can show full screen, menu-free views of the work in progress so that the mysteries of digital design remain hidden away. We don&#39;t want people to see us nudging things around on the screen, experimenting when we should already know what we&#39;re doing.&lt;/p&gt;
+&lt;p&gt;But when we work together, look at the same things, we start to share an understanding of the tools we&#39;re using. Beyond static, visual design work, this can take us into other territories. What if we write code and edit websites together? How far can we move from the expert and proprietary technology model to the shared, open model?&lt;/p&gt;
+&lt;p&gt;Every job we do, everything we create for someone else, is an opportunity to share the tools and deepen the learning. It doesn&#39;t make everyone a graphic designer, but it does make graphic designers better, and better understood for what they specifically bring rather than what they are generally selling.&lt;/p&gt;
+&lt;h3&gt;4. Polish&lt;/h3&gt;
+&lt;p&gt;Surely here&#39;s where the designer should disappear, with some paper cutouts and rough Photoshop files, before returning with a shiny masterpiece? Except that there&#39;s huge opportunity at this point. The real craft of graphic design, the part that matters, is the attention to detail that leads to almost imperceptible tweaks.&lt;/p&gt;
+&lt;p&gt;Graphic designers who really care about what they do will obsess over minor differences in colour, typefaces, gradients, details. And in many ways it&#39;s these obsessions that form the basis of stronger client relationships. Sharing an understanding, and love, of why two ostensibly similar things are actually worlds apart is key to mutual trust and building something meaningful for the long-term.&lt;/p&gt;
+&lt;p&gt;I recently did a project with some graphic design students, getting them to work on new ideas for services and products. It was hard to get them away from their computers but when they weren&#39;t using Photoshop they were doing their best work.&lt;/p&gt;
+&lt;p&gt;The conversations I had with those students, their tutor, and many other people since has highlighted what a solitary profession graphic design can be, and how much better it can be when it isn&#39;t.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Speaking Volumes</title>
+		<link href="http://mistergough.com//2014/02/18/speaking-volumes.html"/>
+		<updated>2014-02-18T13:54:59+01:00</updated>
+		<id>http://mistergough.com//2014/02/18/speaking-volumes</id>
+		<content type="html">&lt;p&gt;I recently came to the conclusion that I never really learn much from books. If I was to rank the ways in which I actually learn it would look a little like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Having a go myself&lt;/li&gt;
+&lt;li&gt;Having it demonstrated&lt;/li&gt;
+&lt;li&gt;The internet&lt;/li&gt;
+&lt;li&gt;Books&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first three are, in some way or another, conversations. Even when I think about other people explaining things to me I&#39;m really thinking about having my specific questions answered, not being talked at or presented to; not being lectured. And it&#39;s the same with the internet. I don&#39;t mean that I learn by reading whole websites. I mean that I use search; I have a question and I search for the answer.&lt;/p&gt;
+&lt;p&gt;Sometimes search brings me into the world of other people trying to understand the same things, and allows me to follow their own quest to find an answer. For me this shared experience is a key part of learning. When we learn from others in a similar position we get both answers and empathy. We find a solution and we connect with it. When we discover that answer for ourselves it&#39;s even more powerful.&lt;/p&gt;
+&lt;p&gt;Questions, answers and empathy seem to be fundamental to my learning experience, which is why being fed learning doesn&#39;t work for me and why the authority of the educator isn&#39;t enough. I admire expertise but I don&#39;t necessarily learn from it. Especially written down.&lt;/p&gt;
+&lt;p&gt;In this respect it seems that the most promising element of ebooks is far from being realised. We have the technology to connect over books and go on the same journey with others but it&#39;s not really happening; margin notes are a poor substitution for conversation.&lt;/p&gt;
+&lt;p&gt;I still enjoy books and in reality most reading experiences are about more than just information. But few things in our lives have changed as little over time as books. Most technological advancements have been about the business model of books rather than their format. If we&#39;d put as much effort into the learning experience as we have the commercial aspect, what would books look like now?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Capacity, Flow and Separation</title>
+		<link href="http://mistergough.com//2014/02/05/capacity-flow-and-separation.html"/>
+		<updated>2014-02-05T20:08:56+01:00</updated>
+		<id>http://mistergough.com//2014/02/05/capacity-flow-and-separation</id>
+		<content type="html">&lt;p&gt;I recently read &lt;a title=&quot;Personal Kanban&quot; href=&quot;http://www.personalkanban.com/pk/personal-kanban-the-book/#sthash.oSTYptKw.dpbs&quot; target=&quot;_blank&quot;&gt;Personal Kanban&lt;/a&gt;, which I thoroughly recommend, especially if you want to get away from the tyranny of to-do lists. In other words, I&#39;d recommend it to everyone.&lt;/p&gt;
+&lt;p&gt;One of the themes of the book is the distinction between capacity and flow; neatly described in terms of road traffic. A road at full capacity - in other words with no space between the cars - doesn&#39;t move at all. A road with adequate space between the cars will flow.&lt;/p&gt;
+&lt;p&gt;Put this way it&#39;s clear how disadvantageous it is for things that need to move to be at full capacity. Full capacity is great for a glass of wine, not so good for living.&lt;/p&gt;
+&lt;p&gt;The space between tasks is as essential part of doing things better rather than just doing more. In Kanban this space largely relies upon being disciplined with the amount of Work in Progress (WiP), i.e. the number of tasks that are supposedly being actioned at the same time.&lt;/p&gt;
+&lt;p&gt;But this approach to work, creating thinking/breathing/enjoying space, means much more. By making this space we start to see the individual parts of our work; we start to see the separation between one thing and another. And moving from lists to defined entities changes our perspective.&lt;/p&gt;
+&lt;p&gt;So the concept of work/life balance is shown to be a very blunt instrument indeed. Our days are full of individual tasks, none of which wholly encapsulate either work or &quot;life&quot;. And neither an unbroken continuum nor polar opposites are effective ways to view them.&lt;/p&gt;
+&lt;p&gt;By focusing on separation, the line between one thing and another, it&#39;s possible to give everything the respect it deserves, however much space we&#39;re able to create for ourselves.&lt;/p&gt;
+</content>
+	</entry>
+	
+</feed>
