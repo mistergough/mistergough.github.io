@@ -4,6 +4,7 @@
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	<link rel="stylesheet" href="/css/styles.css">
 	<link rel="alternate" type="application/rss+xml" title="mistergough.com" href="http://mistergough.com//feed.xml">
+    <link rel="stylesheet" href="https://use.typekit.net/vai7vfg.css">
 	<meta name=viewport content="width=device-width, initial-scale=1">
 	<title>mistergough.com | Front Page</title>
 	<meta name="description" content="mistergough's blog">
@@ -14,31 +15,64 @@
 
 <body>
     
-<h2>Open Data Camp</h2>
-<p>Last weekend I attended Open Data Camp in Winchester; my first ever "Camp". As someone who works primarily in design, attending designey events for designers, I'm not used to taking part in the more tech/data end of the events spectrum so I wanted to get my thoughts down.</p>
-<p>I'm not going to go into the format or general organisation of the weekend. To me it seemed to go pretty smoothly. I knew where to be, when, and I got plenty to eat. We never ran out of coffee. I'd like to make particular mention of one of the brilliant organisers, Lucy Knight, not least because I'm lucky enough to work with her.</p>
-<p>I attended a pretty diverse range of sessions: democracy, food, design, and mapping the benefits of open data. I enjoyed them all, although I repeatedly found that the conversation just started as the session ended. From past experience it's usually the case. As the first Open Data Camp it's probably more expected than in other, established events like GovCamp, but it's no bad thing; it helps to plot the course.</p>
-<p>So, general experiences aside, a few things that stood out for me.</p>
-<h3>Public Sector Focus</h3>
-<p>It's inevitable that there will be a strong focus on the public sector in an event like Open Data Camp. Most discussion in the UK around Open Data is still heavily connected with the public sector. And to be honest, if the public sector didn't push on the open data thing who knows how far we'd have got by now.</p>
-<p>My concern is around where we go next. For me, some of the most useful data, the most vital, is going to come from outside the public sector. Finding ways to get corporates to open up what they have is a difficult but worthwhile challenge and I feel like this needs to be pursued as aggressively, if not more so, as open data advocates are pursuing the public sector.</p>
-<p>How can events like Open Data Camp help here? Is there a danger that the public sector focus makes it easier for private entities to slip the net? What are the routes in to these silos?</p>
-<p>The other issues for me around the public sector focus is the potential for us to accept the public sector as it is. I was thinking about this in the session on democracy. With all the technology and data available to us is it enough to engage with machinations of democracy as they currently stand? How can technology, data (and design) help us to advance democracy at its most fundamental level?</p>
-<h3>Design and Data</h3>
-<p>I'm particularly interested in how to get data into the hands of designers and in fact I ran a session on this. It was a difficult one. The first thing I realised was that my definition of designer might not have been shared with everyone in the room. When we talk about data and design the natural common ground is web/app development. In this context it doesn't seem too much to expect designers to learn a bit of code and help bridge the gap that way.</p>
-<p>But many designers are a long way from this. I have to remind myself that my interest in coding says more about me (geek) than the design profession as a whole and that the real common ground comes from creative ways to translate the essence of what each field is about. To this end I think I saw a card game in one of the sessions. We need more things like this. It would be remiss of me not to mention <a href="http://redfront.co.uk/blog/the-data-loop/" target="_blank">Redfront's own Data Loop</a> too.</p>
-<h3>Benefits</h3>
-<p>Martin Howitt ran a session on identifying the benefits of open data for different stakeholder groups. Bias aside (it appeals to my designer tendencies but I'm also lucky enough work with Martin as well) this seems to me to be a vital undertaking. If we're going to unlock the real potential of open data then we need more people to understand it, make use of it, demand it.</p>
-<p>If you're interested in contributing to the benefits mapping of open data you can help by adding your comments <a href="https://docs.google.com/spreadsheets/d/1RmAm9YTwsdiz25Fju_-RTFN4LG7SzZKhmNKm_HoAFJ4/edit#gid=0" target="_blank">to this spreadsheet</a>.</p>
-<h3>Hacking Together</h3>
-<p>One of the sessions I was in made me realise just how much work there is to be done in translating open data into useful things. There are some clever people out there doing clever things with data. There are challenges and hackathons that produce fascinating new applications. And yet the propagation, evolution and adoption of the outputs seems negligible in comparison.</p>
-<p>From a biased designer's point of view I might say that the problem could lie in a missing human element. Are we successfully engaging and designing for the people who really need or want these apps? Could we do more to bring humanity into the process? As I talked about above, I'm passionate about the design component of open data, and as the technology landscape introduces new platforms and devices we need to be even surer that we're embarking on its exploration as a diverse groups of makers and users.</p>
+<h2>Static Blogging</h2>
+<p>Over the past couple of days I’ve been moving this blog from its original <a href="https://mistergough.wordpress.com">Wordpress.com</a> version to a static blog.</p>
 
-<p><a href="/2015/02/23/open-data-camp.html">ADD A COMMENT</a></p>
+<p>Static blogs don’t use a database. The HTML files are generated at the point of creation rather than dynamically generated at the point of viewing. The most obvious advantage of this is speed for the reader, but there are side benefits too, such as better security and fewer management requirements.</p>
+
+<p>There are lots of ways to generate static files, including the completely manual approach, but for this blog I decided to use  <a href="http://jekyllrb.com/">Jekyll</a>. Jekyll is a processing application that pulls together separate files and combines them into finished HTML pages. The point of this it to make it easier to separate content and presentation so that blog posts can be written in, say, <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, just as with this one. It also means that you can reuse snippets of HTML in lots of places, such as page headers and footers.</p>
+
+<p>Anyway, for an overview of Jekyll <a href="http://jekyllrb.com/">take a look at the website</a>.</p>
+
+<p>Another reason for using Jekyll is the fact that it’s supported by <a href="https://pages.github.com/">Github Pages</a>, a simple website hosting platform that works from a dedicated Github repository. For free.</p>
+
+<p>There are many different ways to set up a Jekyll and Github blog, and the right approach will depend largely on personal preferences, but <a href="https://pages.github.com/">this page</a> should give you an idea of what’s involved.</p>
+
+<p>The first step is to get a Github account, if you don’t already have one. Once you have an account you can set up Github Pages as a dedicated respository.</p>
+
+<p>After this you should clone the remote repository to your local computer. Github provides full instructions for this. Scrolling down <a href="https://pages.github.com/">this page</a> you’ll find instructions for getting Jekyll up and running. This can be a bit fiddly but what you want to end up with is jekyll running on your local computer for generating static files and enough of an understanding of git to push those files up to the Github repository.</p>
+
+<p>Once you have the basics working you can play around with design, structure and content. Every update, whether it’s a design change or new post becomes a matter of pushing the modified files to your repository.</p>
+
+<h3 id="css">CSS</h3>
+
+<p>Jekyll has built in support for <a href="http://sass-lang.com/">CSS extension Sass</a>, which is well worth learning and using if you don’t already. Of course, if you don’t want to get into the design side at all you can just download and use ready made themes (<a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a> is worth a look). You can even use the theme I’ve built here by cloning all the site files <a href="https://github.com/mistergough/mistergough.github.io">from my own repository</a>.</p>
+
+<h3 id="markdown">Markdown</h3>
+
+<p>Markdown is a simple system for styling text documents. Jekyll has built-in support for Markdown which means that you can write your posts in a more user-friendly way and then let Jekyll handle the rest. It’s worth learning the <a href="http://daringfireball.net/projects/markdown/">Markdown syntax</a> as it’s become something of a standard.</p>
+
+<h3 id="commenting">Commenting</h3>
+
+<p>The biggest drawback to Jekyll at this point is the lack of any good static commenting systems. At this point <a href="https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions">Disqus</a> remains the most effective commenting system. It’s pretty easy to set up even if it’s not to everyone’s taste.</p>
+
+<h3 id="importing">Importing</h3>
+
+<p>Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of <a href="http://import.jekyllrb.com/">import extensions</a> for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.</p>
+
+<h3 id="feeds">Feeds</h3>
+
+<p>Site feeds turn out to be pretty simple too. You can use the <a href="https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml">feed.xml</a> template in my own repository without too much configuration or look around for other people’s. There are plenty out there.</p>
+
+<p>So, if you like the look of this blog just take what you want and modify accordingly. I’d love to know how you get on.</p>
+
+<h3 id="difficulty">Difficulty</h3>
+
+<p>I mentioned at the beginning of this post that I’d spent a couple of days doing this. OK, not full time, but if you’re new to some or all of the technologies here the whole process of setting up a Jekyll blog might take some effort. However, there’s a lot to be said for using static files for simple sites. Plus Git, Jekyll, Markdown and Sass (and the command line if you choose to go down that route) are all good things to get to grips with. So, yes, it might not be the easiest way to get a blog up and running but it’s definitely worth a go.</p>
+
+<p><a href="/2015/08/09/static-blogging.html">ADD A COMMENT</a></p>
 
 <h2>Everything</h2>
 	<ul>
   		
+  		<li>
+			<a href="/2016/07/23/pointless-fun.html">Pointless Fun</a>
+		</li>
+		
+  		<li>
+			<a href="/2016/06/08/organisation-as-technology.html">Organisation as Technology</a>
+		</li>
+		
   		<li>
 			<a href="/2016/05/29/soft-and-malleable.html">Soft and Malleable</a>
 		</li>
