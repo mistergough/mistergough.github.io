@@ -6,12 +6,33 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2018-05-08T13:04:40+02:00</updated>
+	<updated>2018-05-20T17:00:43+02:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
 	</author>
 	
+	
+	<entry>
+		<title>Instant Feedback</title>
+		<link href="http://mistergough.com//2018/05/20/instant-feedback.html"/>
+		<updated>2018-05-20T00:00:00+02:00</updated>
+		<id>http://mistergough.com//2018/05/20/instant-feedback</id>
+		<content type="html">&lt;p&gt;This week I’ve been working with my students on a project around sports and physical activity. As part of the module we’ve been revisiting systems thinking to help us identify possible design interventions; we’ve had some fascinating discussions around positive and negative feedback loops (talking about things like whether it’s right to harness the power of addiction in this context, for example).&lt;/p&gt;
+
+&lt;p&gt;Feedback information is a core component of systems thinking: design interventions round reinforcing feedback loops can have an exponential impact; spotting the negative feedback loops can help us get deeply under the skin of a problem. These loops are all over the place when we’re talking about how to get people to do more exercise and we’ve become quite excited about the possibilities of working with deep motivations and fundamental barriers.&lt;/p&gt;
+
+&lt;p&gt;Discussions, mapping and research are all incredibly useful, but it’s hard to work on something as far-reaching as physical activity and health without reflecting on our own attitudes, particularly in this case what our own feedback loops might be.&lt;/p&gt;
+
+&lt;p&gt;I went to the gym for the first time in months today. I plan to do it regularly again, but in thinking about how to get back into the habit I’ve been considering how polarised my relationship with exercise has been since as far back as I can remember. I’m either exercising almost every day or not going at all. Most likely, the ideal approach is somewhere in between those two extremes, and before now perhaps I would have sought to find that balance. But thinking about feedback loops has changed my perspective.&lt;/p&gt;
+
+&lt;p&gt;It’s clear to me that when I start exercising heavily I get into a reinforcing feedback loop that makes me want to keep doing it. Conversely, a small amount of exercise inevitably dwindles to nothing: if I do too little I start questioning the point and then the downward spiral to inactivity begins.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the reality is that the perfect point between addiction to exercise and a complete failure to do anything is such a knife edge that it’s almost impossible to find. Maybe moderation with exercise (as with other things) is just not a realistic goal.&lt;/p&gt;
+
+&lt;p&gt;Ultimately I might have to concede that my best option—the most effective place to concetrate my efforts—is in working with the addictive cycle of exercising and trying to maintain it. At least as long as I can, anyway.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Pointless Fun</title>
@@ -414,21 +435,6 @@ rel="alternate"/>
 &lt;p&gt;Questions, answers and empathy seem to be fundamental to my learning experience, which is why being fed learning doesn&#39;t work for me and why the authority of the educator isn&#39;t enough. I admire expertise but I don&#39;t necessarily learn from it. Especially written down.&lt;/p&gt;
 &lt;p&gt;In this respect it seems that the most promising element of ebooks is far from being realised. We have the technology to connect over books and go on the same journey with others but it&#39;s not really happening; margin notes are a poor substitution for conversation.&lt;/p&gt;
 &lt;p&gt;I still enjoy books and in reality most reading experiences are about more than just information. But few things in our lives have changed as little over time as books. Most technological advancements have been about the business model of books rather than their format. If we&#39;d put as much effort into the learning experience as we have the commercial aspect, what would books look like now?&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Capacity, Flow and Separation</title>
-		<link href="http://mistergough.com//2014/02/05/capacity-flow-and-separation.html"/>
-		<updated>2014-02-05T20:08:56+01:00</updated>
-		<id>http://mistergough.com//2014/02/05/capacity-flow-and-separation</id>
-		<content type="html">&lt;p&gt;I recently read &lt;a title=&quot;Personal Kanban&quot; href=&quot;http://www.personalkanban.com/pk/personal-kanban-the-book/#sthash.oSTYptKw.dpbs&quot; target=&quot;_blank&quot;&gt;Personal Kanban&lt;/a&gt;, which I thoroughly recommend, especially if you want to get away from the tyranny of to-do lists. In other words, I&#39;d recommend it to everyone.&lt;/p&gt;
-&lt;p&gt;One of the themes of the book is the distinction between capacity and flow; neatly described in terms of road traffic. A road at full capacity - in other words with no space between the cars - doesn&#39;t move at all. A road with adequate space between the cars will flow.&lt;/p&gt;
-&lt;p&gt;Put this way it&#39;s clear how disadvantageous it is for things that need to move to be at full capacity. Full capacity is great for a glass of wine, not so good for living.&lt;/p&gt;
-&lt;p&gt;The space between tasks is as essential part of doing things better rather than just doing more. In Kanban this space largely relies upon being disciplined with the amount of Work in Progress (WiP), i.e. the number of tasks that are supposedly being actioned at the same time.&lt;/p&gt;
-&lt;p&gt;But this approach to work, creating thinking/breathing/enjoying space, means much more. By making this space we start to see the individual parts of our work; we start to see the separation between one thing and another. And moving from lists to defined entities changes our perspective.&lt;/p&gt;
-&lt;p&gt;So the concept of work/life balance is shown to be a very blunt instrument indeed. Our days are full of individual tasks, none of which wholly encapsulate either work or &quot;life&quot;. And neither an unbroken continuum nor polar opposites are effective ways to view them.&lt;/p&gt;
-&lt;p&gt;By focusing on separation, the line between one thing and another, it&#39;s possible to give everything the respect it deserves, however much space we&#39;re able to create for ourselves.&lt;/p&gt;
 </content>
 	</entry>
 	
