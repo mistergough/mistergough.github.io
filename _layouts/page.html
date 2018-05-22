@@ -3,6 +3,7 @@
 	{% include topbar.html %}
 	<body>
 	<h2>{{ page.title }}</h2>
+        <img src="{{ site.baseurl }}/images/{{ page.image }}">
     	{{ content }}
 	{% if page.comments %}
 	<div id="disqus_thread"></div> <script type="text/javascript">
