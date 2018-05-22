@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Curriculum Vitae
 ---
 I'm a design facilitator whose work converges on three overlapping areas: interactions, systems and self.
