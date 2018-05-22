@@ -21,6 +21,7 @@ My recent clients include Government Digital Service, the Met Office, the Food S
 Aside from work I write a [long-running blog](http://theminimallist.com) with my wife about more intentional living; I write about [learning and unschooling](https://medium.com/learning-outsiders); I take [lots of photos](https://www.flickr.com/photos/mistergough/); and I gather together the odd bit of digital design work on my [imagetext site](http://imagetext.co.uk).
 
 ### Skills
+* Design Facilitation
 * Service Design
 * Organisation Design
 * Systems Thinking
