@@ -15,6 +15,8 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 comments: true
+image:
+    featured: images/success.jpg
 ---
 This week I've been working with my students on a project around sports and physical activity. As part of the module we've been revisiting systems thinking to help us identify possible design interventions; we've had some fascinating discussions around positive and negative feedback loops (talking about things like whether it's right to harness the power of addiction in this context, for example).
 
