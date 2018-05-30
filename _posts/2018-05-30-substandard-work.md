@@ -15,6 +15,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 comments: true
+image: crumbly.jpg
 ---
 Sharing work that's a long way from finished—work that's just the starting point or a single aspect of what we're aiming for—is a crucial part of working with other people. And thinking of it as substandard is a useful step in getting better at that sharing.
 
