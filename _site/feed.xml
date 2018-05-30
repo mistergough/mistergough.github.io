@@ -6,7 +6,7 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://mistergough.com//feed/" rel="self"/>
  	<link type="text" href="http://mistergough.com/" 
 rel="alternate"/>
-	<updated>2018-05-22T14:46:37+02:00</updated>
+	<updated>2018-05-30T14:19:09+01:00</updated>
 	<id>http://mistergough.com/</id>
 	<author>
 		<name>mistergough.com</name>
@@ -14,9 +14,32 @@ rel="alternate"/>
 	
 	
 	<entry>
+		<title>Substandard Work</title>
+		<link href="http://mistergough.com//2018/05/30/substandard-work.html"/>
+		<updated>2018-05-30T00:00:00+01:00</updated>
+		<id>http://mistergough.com//2018/05/30/substandard-work</id>
+		<content type="html">&lt;p&gt;Sharing work that’s a long way from finished—work that’s just the starting point or a single aspect of what we’re aiming for—is a crucial part of working with other people. And thinking of it as substandard is a useful step in getting better at that sharing.&lt;/p&gt;
+
+&lt;p&gt;It might seem easier to share work that’s 99% there, almost perfect, just in need of some magic fairy dust to make it better. But sharing far less developed things can be more beneficial for everyone.&lt;/p&gt;
+
+&lt;p&gt;There’s a pleasure that comes with the freedom to show substandard work: the implied trust that others have in you to make something better, to build on what’s there; the value you place in others to contribute more than just tweaks; and the loss of friction you feel as you no longer need to agonise over things being good enough.&lt;/p&gt;
+
+&lt;p&gt;Collaborative tools like Google Docs have given us the ability to stick half-baked ideas into a semi-public space. But they haven’t necessarily given us permission. Even explicit encouragement to throw something together can be meaningless when the relationship isn’t based on a reasonable level of trust.&lt;/p&gt;
+
+&lt;p&gt;Substandard work as a vital part of an iterative, collaborative process is different from the binary of success and failure. Rather than experimentation to see what sticks, substandard work is about the kernel of something valuable unfettered by the need to complete the picture before showing it to someone else.&lt;/p&gt;
+
+&lt;p&gt;It’s about finding the smoothest path between an idea and its audience; it’s about the kind of mutual understanding that allows that idea to become something better through contact with other people; and ultimately it’s a powerful way to learn.&lt;/p&gt;
+
+&lt;p&gt;If we wait, if we internalise the process of improvement, we close ourselves off from the immediate feedback that accelerates our ability to learn more than we can teach ourselves. But to different extents we’ve learned to internalise; we each have our own expectations of what makes something ready or good enough.&lt;/p&gt;
+
+&lt;p&gt;If we want to get better at sharing substandard work we need to help each other. We need to learn and unlearn: collectively change our ways of looking at what people share with us and develop the trust that allows us show people just the essence of something rather than the finished article. After all, the finished article might but substandard in its own way, and with a lot less opportunity for improvement.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Instant Feedback</title>
 		<link href="http://mistergough.com//2018/05/20/instant-feedback.html"/>
-		<updated>2018-05-20T00:00:00+02:00</updated>
+		<updated>2018-05-20T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2018/05/20/instant-feedback</id>
 		<content type="html">&lt;p&gt;This week I’ve been working with my students on a project around sports and physical activity. As part of the module we’ve been revisiting systems thinking to help us identify possible design interventions; we’ve had some fascinating discussions around positive and negative feedback loops (talking about things like whether it’s right to harness the power of addiction in this context, for example).&lt;/p&gt;
 
@@ -37,7 +60,7 @@ rel="alternate"/>
 	<entry>
 		<title>Pointless Fun</title>
 		<link href="http://mistergough.com//2016/07/23/pointless-fun.html"/>
-		<updated>2016-07-23T00:00:00+02:00</updated>
+		<updated>2016-07-23T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2016/07/23/pointless-fun</id>
 		<content type="html">&lt;p&gt;The recent launch of Pokemon Go has spawned the inevitable rash of articles about how how we can harness the game’s popularity for all sorts of alternative outcomes, but most irritating of all perhaps is the way the formal education community has sought to use it as a way of (and there’s no nicer way I can think of putting this) tricking kids into paying attention to far less interesting things.&lt;/p&gt;
 
@@ -64,7 +87,7 @@ rel="alternate"/>
 	<entry>
 		<title>Organisation as Technology</title>
 		<link href="http://mistergough.com//2016/06/08/organisation-as-technology.html"/>
-		<updated>2016-06-08T00:00:00+02:00</updated>
+		<updated>2016-06-08T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2016/06/08/organisation-as-technology</id>
 		<content type="html">&lt;p&gt;In developing ideas and conversations around &lt;a href=&quot;http://theself.agency&quot;&gt;The Self Agency&lt;/a&gt; we’ve needed to reframe our perceptions of organisations; when designing for the individual agent before the organisation this reframing helps us to articulate a more coherent relationship.&lt;/p&gt;
 
@@ -101,7 +124,7 @@ rel="alternate"/>
 	<entry>
 		<title>Soft and Malleable</title>
 		<link href="http://mistergough.com//2016/05/29/soft-and-malleable.html"/>
-		<updated>2016-05-29T00:00:00+02:00</updated>
+		<updated>2016-05-29T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2016/05/29/soft-and-malleable</id>
 		<content type="html">&lt;p&gt;Yesterday I helped out an Internet of Things (IoT) &lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23ThingsCamp&amp;amp;src=tyah&quot;&gt;event&lt;/a&gt; for pretty much anyone who wanted come along and learn/tinker/hack/build/break. If you’re new to the technology one of the things that might strike you is the cheapness, availability and increasing simplicity of much of it.&lt;/p&gt;
 
@@ -126,7 +149,7 @@ rel="alternate"/>
 	<entry>
 		<title>Where It Lives</title>
 		<link href="http://mistergough.com//2016/05/22/where-it-lives.html"/>
-		<updated>2016-05-22T00:00:00+02:00</updated>
+		<updated>2016-05-22T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2016/05/22/where-it-lives</id>
 		<content type="html">&lt;p&gt;I’ve accumulated a lot of digital clutter over the years: personal blogs, company sites, side project paraphernalia. Every now and again I like to go back and sort it out, even if it can be overwhelming.&lt;/p&gt;
 
@@ -149,7 +172,7 @@ rel="alternate"/>
 	<entry>
 		<title>Static Blogging</title>
 		<link href="http://mistergough.com//2015/08/09/static-blogging.html"/>
-		<updated>2015-08-09T00:00:00+02:00</updated>
+		<updated>2015-08-09T00:00:00+01:00</updated>
 		<id>http://mistergough.com//2015/08/09/static-blogging</id>
 		<content type="html">&lt;p&gt;Over the past couple of days I’ve been moving this blog from its original &lt;a href=&quot;https://mistergough.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; version to a static blog.&lt;/p&gt;
 
@@ -200,7 +223,7 @@ rel="alternate"/>
 	<entry>
 		<title>Principles and Architecture</title>
 		<link href="http://mistergough.com//2015/07/23/principles-and-architecture.html"/>
-		<updated>2015-07-23T04:59:04+02:00</updated>
+		<updated>2015-07-23T03:59:04+01:00</updated>
 		<id>http://mistergough.com//2015/07/23/principles-and-architecture</id>
 		<content type="html">&lt;p&gt;How do we build design principles into the deepest architecture of things, into the algorithms and mechanisms?&lt;/p&gt;
 &lt;p&gt;It goes deeper than an ethos or mission. Those things change, get re-evaluated. Good intent can be reduced to a veneer while the core values are dismantled and exploited. &lt;/p&gt;
@@ -212,7 +235,7 @@ rel="alternate"/>
 	<entry>
 		<title>Open Data Camp</title>
 		<link href="http://mistergough.com//2015/02/23/open-data-camp.html"/>
-		<updated>2015-02-23T11:09:27+01:00</updated>
+		<updated>2015-02-23T10:09:27+00:00</updated>
 		<id>http://mistergough.com//2015/02/23/open-data-camp</id>
 		<content type="html">&lt;p&gt;Last weekend I attended Open Data Camp in Winchester; my first ever &quot;Camp&quot;. As someone who works primarily in design, attending designey events for designers, I&#39;m not used to taking part in the more tech/data end of the events spectrum so I wanted to get my thoughts down.&lt;/p&gt;
 &lt;p&gt;I&#39;m not going to go into the format or general organisation of the weekend. To me it seemed to go pretty smoothly. I knew where to be, when, and I got plenty to eat. We never ran out of coffee. I&#39;d like to make particular mention of one of the brilliant organisers, Lucy Knight, not least because I&#39;m lucky enough to work with her.&lt;/p&gt;
@@ -238,7 +261,7 @@ rel="alternate"/>
 	<entry>
 		<title>Think Piece</title>
 		<link href="http://mistergough.com//2015/01/15/think-piece.html"/>
-		<updated>2015-01-15T12:18:24+01:00</updated>
+		<updated>2015-01-15T11:18:24+00:00</updated>
 		<id>http://mistergough.com//2015/01/15/think-piece</id>
 		<content type="html">&lt;p&gt;Blog commenting systems have evolved very little since their inception. One of the more interesting examples of some kind of evolution was Branch&#39;s inline commenting system; part of the platform&#39;s attempt to encourage thoughts-in-progress rather than finished pieces. &lt;/p&gt;
 &lt;p&gt;Medium has similar functionality at the paragraph level but it fails to realise the potential due to its focus on polished editorial, and so the nearest thing we have to an unfinished ideas platform is Twitter. But still we rarely see the level of vulnerability and open thinking necessary to make it work there. &lt;/p&gt;
@@ -254,7 +277,7 @@ rel="alternate"/>
 	<entry>
 		<title>Group Love</title>
 		<link href="http://mistergough.com//2014/11/23/group-love.html"/>
-		<updated>2014-11-23T11:20:16+01:00</updated>
+		<updated>2014-11-23T10:20:16+00:00</updated>
 		<id>http://mistergough.com//2014/11/23/group-love</id>
 		<content type="html">&lt;p&gt;Facebook&#39;s recent release of a standalone Group app and its less recent Messaging app are indicators of something important in the way we use social networks.&lt;/p&gt;
 &lt;p&gt;One of my least favourite things about social media is the way in which all new platforms perpetuate the follower or friend model; one of the obvious criticisms of something like Ello is that its architecture requires us to scale our connections. It wants to replicate Twitter or Facebook. Just without the ads. &lt;/p&gt;
@@ -271,7 +294,7 @@ rel="alternate"/>
 	<entry>
 		<title>Learning Muscles</title>
 		<link href="http://mistergough.com//2014/09/25/learning-muscles.html"/>
-		<updated>2014-09-25T13:26:19+02:00</updated>
+		<updated>2014-09-25T12:26:19+01:00</updated>
 		<id>http://mistergough.com//2014/09/25/learning-muscles</id>
 		<content type="html">&lt;p&gt;Weight training works by pushing muscles to breaking point and then allowing them to recover, and grow. Formal education doesn&#39;t work this way. It supports and guides, providing children with a safe environment to acquire knowledge.&lt;/p&gt;
 &lt;p&gt;We already exerience information overload, so it seems pretty likely that a couple of key skills for our future society will be the ability to learn and the ability to filter.&lt;/p&gt;
@@ -284,7 +307,7 @@ rel="alternate"/>
 	<entry>
 		<title>Common Sense</title>
 		<link href="http://mistergough.com//2014/08/14/common-sense-2.html"/>
-		<updated>2014-08-14T11:29:04+02:00</updated>
+		<updated>2014-08-14T10:29:04+01:00</updated>
 		<id>http://mistergough.com//2014/08/14/common-sense-2</id>
 		<content type="html">&lt;p&gt;When I was growing up the adults in my life often judged me on the basis of something they called common sense. For them it was some sort of unquestionable constant.&lt;/p&gt;
 &lt;p&gt;Its values helped them to assert their dominance over young people, children, me. Suffice to say, I lacked it. And the constant reminder that I lacked it contributed in no small part in my growth from an awkward, unsure child to an awkward, unsure teenager.&lt;/p&gt;
@@ -303,7 +326,7 @@ rel="alternate"/>
 	<entry>
 		<title>Economic Thinking</title>
 		<link href="http://mistergough.com//2014/07/17/economic-thinking.html"/>
-		<updated>2014-07-17T07:28:07+02:00</updated>
+		<updated>2014-07-17T06:28:07+01:00</updated>
 		<id>http://mistergough.com//2014/07/17/economic-thinking</id>
 		<content type="html">&lt;p&gt;It wouldn&#39;t be an exaggeration to say that most of the world&#39;s problems are directly caused by either:&lt;/p&gt;
 &lt;p&gt;A. A misunderstanding of economics &lt;br /&gt;B. A misuse of economics&lt;/p&gt;
@@ -319,7 +342,7 @@ rel="alternate"/>
 	<entry>
 		<title>Design Units</title>
 		<link href="http://mistergough.com//2014/07/08/design-units.html"/>
-		<updated>2014-07-08T07:53:25+02:00</updated>
+		<updated>2014-07-08T06:53:25+01:00</updated>
 		<id>http://mistergough.com//2014/07/08/design-units</id>
 		<content type="html">&lt;p&gt;The more complex the unit of design, the less we are likely to question it. Simple products can be easily evaluated; when a bottle opener doesn&#39;t work we&#39;re happy to point to its flaws. But we rarely do this with systems, organisations, governments.&lt;/p&gt;
 &lt;p&gt;We rely on our direct relationship with things to provide our opportunity to critique them. My nan&#39;s relationship with democracy often came down to which doorstopping man looked the &quot;nicest&quot;. That&#39;s not a criticism of her, it&#39;s simply a statement of how much mental energy we can all be bothered to expend on anything more abstract than that which we&#39;re shown.&lt;/p&gt;
@@ -331,7 +354,7 @@ rel="alternate"/>
 	<entry>
 		<title>Subtractive Value</title>
 		<link href="http://mistergough.com//2014/07/04/subtractive-value.html"/>
-		<updated>2014-07-04T14:36:12+02:00</updated>
+		<updated>2014-07-04T13:36:12+01:00</updated>
 		<id>http://mistergough.com//2014/07/04/subtractive-value</id>
 		<content type="html">&lt;p&gt;I was originally going to write something about a subtractive view of design, or rather how design should focus more on how to take things away than how to create. &lt;/p&gt;
 &lt;p&gt;After all, truly good designs simplifies, removes obstacles, eliminates problems. Good design brings clarity, reduces uncertainty. And yet we often think of design in terms of what we create, of the shiny newness. Whether it&#39;s the tangible output or the tools of the process we&#39;re always adding.&lt;/p&gt;
@@ -347,7 +370,7 @@ rel="alternate"/>
 	<entry>
 		<title>Experiment and Strategy</title>
 		<link href="http://mistergough.com//2014/06/26/experiment-and-strategy.html"/>
-		<updated>2014-06-26T06:24:09+02:00</updated>
+		<updated>2014-06-26T05:24:09+01:00</updated>
 		<id>http://mistergough.com//2014/06/26/experiment-and-strategy</id>
 		<content type="html">&lt;p&gt;The word &quot;experiment&quot; seems to have two, almost different meanings. One one hand we think of it as a one-off, radical thing; experimental art and music are out there, crazy, avant garde. The opposite of systematic, methodical.&lt;/p&gt;
 &lt;p&gt;On the other hand we have science. Experiments in science are a core process. They&#39;re how we do science and they&#39;re very much systematic and methodical.&lt;/p&gt;
@@ -359,7 +382,7 @@ rel="alternate"/>
 	<entry>
 		<title>Reality Friction</title>
 		<link href="http://mistergough.com//2014/06/03/reality-friction.html"/>
-		<updated>2014-06-03T19:16:58+02:00</updated>
+		<updated>2014-06-03T18:16:58+01:00</updated>
 		<id>http://mistergough.com//2014/06/03/reality-friction</id>
 		<content type="html">&lt;p&gt;The last couple of weeks saw the sad demise of a really great app, How Do. It allowed you to take pictures of the steps involved in doing something interesting and leave some audio commentary along the way. It was a treasure trove of wonderful little tips and tricks, but sadly it&#39;s no more.&lt;/p&gt;
 &lt;p&gt;The thing is, I never properly used it. Yes, I browsed what was on there, and I had it installed on my phone. But never once did I leave a tip myself. I don&#39;t know what caused its founders to pull the plug but I&#39;m sure I wasn&#39;t the only one to like the idea without fully engaging.&lt;/p&gt;
@@ -376,7 +399,7 @@ rel="alternate"/>
 	<entry>
 		<title>The Walls of the Universe</title>
 		<link href="http://mistergough.com//2014/04/01/the-walls-of-the-universe.html"/>
-		<updated>2014-04-01T13:42:05+02:00</updated>
+		<updated>2014-04-01T12:42:05+01:00</updated>
 		<id>http://mistergough.com//2014/04/01/the-walls-of-the-universe</id>
 		<content type="html">&lt;p&gt;There&#39;s an exercise called The Five Whys. You may have heard of it. The aim is to keep asking &quot;why?&quot; until you get back to the root of an issue. It&#39;s a good exercise; it teaches us not to accept face value, but it also makes an assumption. It almost makes us believe that we are capable of a broad perspective, that we can fully escape the context of something.&lt;/p&gt;
 &lt;p&gt;Last week I was in another country, talking to someone about education. I have a lot of conversations about education, some self-initiated, others through no fault of my own. My position on education is pretty clear: I think that school is fundamentally wrong. I think that subjects, lessons, teachers and grades comprise the worst possible way for children to learn.&lt;/p&gt;
@@ -394,7 +417,7 @@ rel="alternate"/>
 	<entry>
 		<title>The Lone Designer</title>
 		<link href="http://mistergough.com//2014/03/29/the-lone-designer.html"/>
-		<updated>2014-03-29T14:56:37+01:00</updated>
+		<updated>2014-03-29T13:56:37+00:00</updated>
 		<id>http://mistergough.com//2014/03/29/the-lone-designer</id>
 		<content type="html">&lt;p&gt;One of the best graphic designers I ever met never used a computer. In fact he predominantly used a photocopier and pair of scissors. Once he&#39;d roughed out some ideas with cut and paste he&#39;d talk to other people to get everything into digital files; he&#39;d work with a typesetter, an artist, an illustrator.&lt;/p&gt;
 &lt;p&gt;He produced some great work, and it was real teamwork. But it wasn&#39;t just internal teamwork, it was client collaboration too. Everything began with a meeting. We&#39;d sit down together and work through the design as if we were both working on it. He&#39;d cut things out, stick them together. Scissors, sticky tape, pencils, democratic tools. We&#39;d look at typeface catalogues together, discuss colours.&lt;/p&gt;
@@ -415,26 +438,6 @@ rel="alternate"/>
 &lt;p&gt;Graphic designers who really care about what they do will obsess over minor differences in colour, typefaces, gradients, details. And in many ways it&#39;s these obsessions that form the basis of stronger client relationships. Sharing an understanding, and love, of why two ostensibly similar things are actually worlds apart is key to mutual trust and building something meaningful for the long-term.&lt;/p&gt;
 &lt;p&gt;I recently did a project with some graphic design students, getting them to work on new ideas for services and products. It was hard to get them away from their computers but when they weren&#39;t using Photoshop they were doing their best work.&lt;/p&gt;
 &lt;p&gt;The conversations I had with those students, their tutor, and many other people since has highlighted what a solitary profession graphic design can be, and how much better it can be when it isn&#39;t.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Speaking Volumes</title>
-		<link href="http://mistergough.com//2014/02/18/speaking-volumes.html"/>
-		<updated>2014-02-18T13:54:59+01:00</updated>
-		<id>http://mistergough.com//2014/02/18/speaking-volumes</id>
-		<content type="html">&lt;p&gt;I recently came to the conclusion that I never really learn much from books. If I was to rank the ways in which I actually learn it would look a little like this:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Having a go myself&lt;/li&gt;
-&lt;li&gt;Having it demonstrated&lt;/li&gt;
-&lt;li&gt;The internet&lt;/li&gt;
-&lt;li&gt;Books&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The first three are, in some way or another, conversations. Even when I think about other people explaining things to me I&#39;m really thinking about having my specific questions answered, not being talked at or presented to; not being lectured. And it&#39;s the same with the internet. I don&#39;t mean that I learn by reading whole websites. I mean that I use search; I have a question and I search for the answer.&lt;/p&gt;
-&lt;p&gt;Sometimes search brings me into the world of other people trying to understand the same things, and allows me to follow their own quest to find an answer. For me this shared experience is a key part of learning. When we learn from others in a similar position we get both answers and empathy. We find a solution and we connect with it. When we discover that answer for ourselves it&#39;s even more powerful.&lt;/p&gt;
-&lt;p&gt;Questions, answers and empathy seem to be fundamental to my learning experience, which is why being fed learning doesn&#39;t work for me and why the authority of the educator isn&#39;t enough. I admire expertise but I don&#39;t necessarily learn from it. Especially written down.&lt;/p&gt;
-&lt;p&gt;In this respect it seems that the most promising element of ebooks is far from being realised. We have the technology to connect over books and go on the same journey with others but it&#39;s not really happening; margin notes are a poor substitution for conversation.&lt;/p&gt;
-&lt;p&gt;I still enjoy books and in reality most reading experiences are about more than just information. But few things in our lives have changed as little over time as books. Most technological advancements have been about the business model of books rather than their format. If we&#39;d put as much effort into the learning experience as we have the commercial aspect, what would books look like now?&lt;/p&gt;
 </content>
 	</entry>
 	
