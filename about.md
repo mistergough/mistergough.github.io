@@ -5,7 +5,7 @@ title: Curriculum Vitae
 *I'm a design facilitator whose work converges on three overlapping areas: interactions, systems and self.*
 
 ### Recent Experience
-The majority of my work is carried out through [Redfront](http://redfront.co.uk)—a human interaction agency—where client work is balanced with discovery projects. Recent discovery work includes human-centred law, and [Design and Economics](https://medium.com/design-and-economics).
+The majority of my work is carried out through [Redfront](http://redfront.design)—a human interaction agency—where client work is balanced with discovery projects. Recent discovery work includes human-centred law, and [Design and Economics](https://medium.com/design-and-economics).
 
 Redfront’s discovery project for design and data led to (among other things) my co-founding both [The Data Place](https://thedata.place) and [ThingsCamp](https://things.camp), bringing together human-centred design, open source technologies, open hardware and data science. ThingsCamp events have taken place all over the UK, including at the V&A in London.
 
