@@ -18,7 +18,7 @@ I've co-authored two articles for Touchpoint—the Service Design Network’s jo
 My recent clients include Government Digital Service, the Met Office, the Food Standards Agency, the RSA, Libraries Unlimited, DCMS and the Open Data Institute. I'm also an Open Data Institute Registered Trainer.
 
 ### Interests and Hobbies
-Aside from work I write a [long-running blog](http://theminimallist.com) with my wife about more intentional living; I write about [learning and unschooling](https://medium.com/learning-outsiders); I take [lots of photos](https://www.flickr.com/photos/mistergough/); and I gather together the odd bit of digital design work on my [imagetext site](http://imagetext.co.uk).
+Aside from work I write a [long-running blog](http://theminimallist.com) with my wife about more intentional living; I write about [learning and unschooling](https://medium.com/learning-outsiders); and I take [lots of photos](https://www.flickr.com/photos/mistergough/).
 
 ### Skills
 * Design Facilitation
