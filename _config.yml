@@ -6,5 +6,5 @@ url: http://mistergough.com/
 author:
  name: mistergough
 comments: true
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 1
