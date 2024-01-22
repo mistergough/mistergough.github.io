@@ -8,7 +8,7 @@ layout: default
 <ul class="gallery">
   {% for i in (1..num) %}
   <li>
-    <img src="{{ site.baseurl }}images/photos{{ photo_page.title }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <img src="/images/photos{{ photo_page.url | prepend: site.baseurl}}{{ photo_page.title }}-{{ 1 }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
   </li>
   {% endfor %}
 </ul>
