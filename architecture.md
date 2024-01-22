@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: architecture
-    size: 9
+    size: 5
 ---
