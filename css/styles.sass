@@ -3,11 +3,7 @@
 ---
 
 html
-    background: url(../images/towerblock.jpg) no-repeat center center fixed
-    -webkit-background-size: cover
-    -moz-background-size: cover
-    -o-background-size: cover
-    background-size: cover
+    background: #ddd
 body
     padding: 5%
     line-height: 1.6
@@ -49,6 +45,11 @@ ul#contact
     text-align: right
     list-style-type: none
     margin: 2em 0
+ul#contact li
+    margin: 0.3em 0
+ul#contact li a
+    padding: 0.2em 0.5em
+    background: #ff0
 ul#contents
     list-style-type: none
     margin: 1em 0
@@ -71,6 +72,10 @@ ul.gallery
 img
     max-width: 100%
     margin-top: 1em
+body.page img
+    max-width: 25%
+    float: right
+    margin: 0 0 0 1em
 form
     margin: 1em 0
 input
@@ -86,8 +91,8 @@ textarea
     margin-bottom: 1em
 #post-wrapper
     margin: 5% auto
-    max-width: 800px
-    padding: 1em 3em 3em 3em
+    max-width: 860px
+    padding: 1em 2em 2em 2em
     background: #fff
 @media screen and (max-device-width: 1024px)
     body
