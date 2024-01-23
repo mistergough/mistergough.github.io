@@ -27,7 +27,7 @@ In 2017 I co-founded both [The Data Place](https://thedata.place) and [ThingsCam
 
 Clients include Mars Global, International SOS, Government Digital Service, the Met Office, the Food Standards Agency, the RSA, Libraries Unlimited, DCMS and the Open Data Institute. I'm also an Open Data Institute Registered Trainer.
 
-### Lecturing
+### Teaching
 For eight years I delivered the core pathway for the Ravensbourne MDes in Service Design Innovation along with complementary modules in organisation design, systems thinking and transition design. In my last year at Ravensbourne I was course leader for the MDes in Social Innovation, focusing on storytelling, futures and systems thinking.
 
 ### Writing

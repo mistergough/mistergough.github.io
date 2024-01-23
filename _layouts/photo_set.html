@@ -8,7 +8,7 @@ layout: default
 <ul class="gallery">
   {% for i in (1..num) %}
   <li>
-    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}/{{ page.photos.set | capitalize }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <a href="{{ site.baseurl }}/images/photos/{{ page.photos.set }}/{{ page.photos.set | capitalize }}-{{ i }}.jpg" data-lightbox="{{ page.photos.set }}"><img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}/{{ page.photos.set | capitalize }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"></a>
   </li>
   {% endfor %}
 </ul>
