@@ -6,12 +6,132 @@ xmlns="http://www.w3.org/2005/Atom">
 href="http://localhost:4000/feed/" rel="self"/>
  	<link type="text" href="http://localhost:4000" 
 rel="alternate"/>
-	<updated>2024-01-23T18:36:59+00:00</updated>
+	<updated>2024-01-23T19:12:55+00:00</updated>
 	<id>http://localhost:4000</id>
 	<author>
 		<name>mistergough.com</name>
 	</author>
 	
+	
+	<entry>
+		<title>The End and the Beginning</title>
+		<link href="http://localhost:4000/2021/10/04/the-end-and-the-beginning.html"/>
+		<updated>2021-10-04T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2021/10/04/the-end-and-the-beginning</id>
+		<content type="html">&lt;p&gt;My youngest daughter started school today, aged 13. Both of my children now go to school so, in many ways, our unschooling journey is at an end.&lt;/p&gt;
+
+&lt;p&gt;I guess unschooling doesn’t strictly mean not going to school: unschooling is about being learner-led. Going to school was a choice for both children. They’re equally free to stop if they want. Of course it’s a stretch to equate this choice with true unschooling. There are rules that must be followed, things that must be done.&lt;/p&gt;
+
+&lt;p&gt;But I hope that, at the very least, the years my children have spent living with the freedom to choose might perhaps give them a perspective on school that most children don’t have, that I didn’t have.&lt;/p&gt;
+
+&lt;p&gt;Maybe the most interesting thing about that perspective is the ability to see school as a service: school can provide them with new groups of friends, different things to learn, different ways to learn them, and qualifications. If school doesn’t provide these things or if it fails to provide a worthwhile experience in pursuit of these things then maybe they’ll rethink their choices.&lt;/p&gt;
+
+&lt;p&gt;Everyone learns differently – this was always one of the realities that underpinned our decision to unschool. In an ideal world everyone would have the freedom to build their own education: school might provide something, friend groups another, time at home something else. There are so many ways to learn.&lt;/p&gt;
+
+&lt;p&gt;The real struggle for us when we started with unschooling was the binary choice we were forced to make. There were times when we were afraid we’d done the wrong thing. If we’d been able to choose from more options, had the ability to choose a blended approach, maybe we’d have gone for that.&lt;/p&gt;
+
+&lt;p&gt;Looking back now we can see that unschooling gave us all something that a more mixed way of learning wouldn’t: we lived abroad, we went on long walks across Europe, we made our own ways to learn and we learned through just being in the world.&lt;/p&gt;
+
+&lt;p&gt;But maybe the biggest thing that happened was that we learned together. Unschooling is a whole family thing and we went on the adventure as a team.&lt;/p&gt;
+
+&lt;p&gt;I hope my children enjoy their new adventures; my eldest started school last year and she seems to be thriving. I know my youngest will be the same. I hope we (their parents) will be okay too. I hope we did a good job. I wonder what the next adventure will be.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Code, Discovery and Learning</title>
+		<link href="http://localhost:4000/2019/06/11/code-discovery-and-learning.html"/>
+		<updated>2019-06-11T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2019/06/11/code-discovery-and-learning</id>
+		<content type="html">&lt;p&gt;A couple of days ago my girls suddenly decided to learn coding.&lt;/p&gt;
+
+&lt;p&gt;Like most of the things they show an interest in, coding became an immediate obsession and for the past couple of days we’ve been writing Python on the Raspberry Pi, my phone, a laptop and a micro:bit. We’ve made an adventure games, a racing game, a version of Snake with LEDs (on the micro:bit). We’ve learned about variables and loops and inputs and graphics.&lt;/p&gt;
+
+&lt;p&gt;Much of unschooling involves bouncing around from one thing to another; sometimes sticking with something for a long time; sometimes picking it up and dropping it overnight (or even more quickly). One of the hardest things about this way of learning is letting go of pre-conceived ideas of how we learn or how we think we should learn. We expect to commit to something and see it through.&lt;/p&gt;
+
+&lt;p&gt;But the coding example is a reminder that switching around is never wasted: even a brief introduction to something—a passing glance—is enough to bury something in their consciousnesses for later use. The coding interest didn’t come from nowhere: we’ve had a Raspberry Pi for years; we’ve got computers and other computing devices and Arduino and micro:bit. Plus I’m interested in coding. I can do a bit myself.&lt;/p&gt;
+
+&lt;p&gt;I’ve taken the girls to technology events, and we’ve played with Scratch. We even built a couple of simple websites when they wanted to try that. But it never stuck. For one reason or another it didn’t spark anything and they dropped it.&lt;/p&gt;
+
+&lt;p&gt;I don’t know how long they’ll be interested in coding this time and it really doesn’t matter. However long they pursue it it’s both something to be an enjoyed and a means to an end: they want to do something and they’ve decided that coding might be the way to do it. They’ve dredged up something from their brains and found a new use for it.&lt;/p&gt;
+
+&lt;p&gt;But it’s also pure discovery. Many people who have been working for years—many “grown-ups”—still have no idea what they’re really interested in, or what they want to do as a career.&lt;/p&gt;
+
+&lt;p&gt;It’s hard work to find what excites you. It’s probably even harder to do that when you get older and you’ve only ever really known one path. So if you can’t use your childhood as pure discovery, rather than making a choice and sticking with it then when can you do it?&lt;/p&gt;
+
+&lt;p&gt;That discovery means freedom to pick up and drop things; freedom to try things on for size and decide whether they’re really for you. To the outsider—and particularly the outsider with very different life experiences—it sometimes looks like a lack of engagement. But it’s quite the opposite.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Story Times</title>
+		<link href="http://localhost:4000/2019/06/01/story-times.html"/>
+		<updated>2019-06-01T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2019/06/01/story-times</id>
+		<content type="html">&lt;p&gt;I asked &lt;a href=&quot;https://x.com/mistergough/status/1134732358308044800?s=20&quot;&gt;a question on X/Twitter&lt;/a&gt; earlier today about historical novels for my eldest daughter (she’s thirteen).&lt;/p&gt;
+
+&lt;p&gt;Anyway, it became a bit popular (due mainly to a retweet from Twitter Celebrity &lt;a href=&quot;https://twitter.com/MooseAllain&quot;&gt;Moose Allain&lt;/a&gt; whom you should definitely follow if you don’t already).&lt;/p&gt;
+
+&lt;p&gt;Anyway, as a result I got rather a lot of responses and so I made &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Q0HYSB2QWpgaw6HXDmSHTcMGmYfTNhnER9oVLxfZJ5g/edit#gid=0&quot;&gt;a quick spreadsheet&lt;/a&gt;, which still needs a lot of work but I wanted to capture as much as I could before it all slipped by in the timeline. I’ve made it possible to comment on the spreadsheet too.&lt;/p&gt;
+
+&lt;p&gt;My daughter loves reading (both my daughters do) and she’s recently got more and more into reading historical novels. She’s gained quite a knowledge of the Tudors and right now she’s really into the Chinese Cultural Revolution.&lt;/p&gt;
+
+&lt;p&gt;Stories are a great way into learning a bit about history. Personally I loved Wolf Hall and Bring Up The Bodies by Hilary Mantel; I don’t know how historically accurate those books are (or indeed any of the other suggestions people made) but then history can be pretty vague anyway, and more often than not a matter of opinion. Finding something engaging is probably a lot more important in the beginning than complete accuracy. Once you’re passionate you can start to dig deep.&lt;/p&gt;
+
+&lt;p&gt;I’m going to keep working on the list. I’m particularly keen to organise it a bit more by era and add some notes. I’m also not sure how suitable all the books are for a thirteen year old so I’m going to do a bit of investigating. If you’ve read any of the books and have opinions please let me know here, on Twitter or in the spreadsheet. And if there’s something that would make it more useful to you then tell me. Thanks!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dabbling as a Craft</title>
+		<link href="http://localhost:4000/2019/05/30/dabbling-as-a-craft.html"/>
+		<updated>2019-05-30T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2019/05/30/dabbling-as-a-craft</id>
+		<content type="html">&lt;p&gt;I’ve often found it hard to come to terms with the fact that I’m easily distracted by new creative pursuits; over many years I’ve had a go at everything from film-making and photography to coding and graphic design. Some of these I’ve properly studied while others I’ve just taught myself.&lt;/p&gt;
+
+&lt;p&gt;It can sometimes be disheartening to be only slightly good at things and not really good at any one of them. I’m jealous of people who have pursued a single craft, art form or creative discipline. I wish I’d started earlier, or stuck to something, or specialised.&lt;/p&gt;
+
+&lt;p&gt;But as I signed up for yet another course (I’m back to music production) I realised that maybe the dabbling is the craft itself. When I think about the things I do on a regular basis in my work—problem-solving, working out how to make things, prototyping—it seems to make sense that I can do a bit of everything. Most importantly it seems to matter that I acknowledge the dabbling and work with it.&lt;/p&gt;
+
+&lt;p&gt;I wonder how well we support people to dabble. Most of what we do in learning and work is still very much about specialisms. Or we look up to the true polymaths who are brilliant at everything they do. But we need people who can have a go at things, not only so they can acquire broad skills but also so they can remove the fear of creating, having a go.&lt;/p&gt;
+
+&lt;p&gt;Thinking about my own needs I know that I need to take a more deliberate approach to this partial learning. I need to better map out what I can do, what I want to do, what I’ll need to be able to do. And I’ll need to find the gaps and the opportunities for improvement. I need to commit to a programme of amateurism.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rebel Annoyance</title>
+		<link href="http://localhost:4000/2019/05/23/rebel-annoyance.html"/>
+		<updated>2019-05-23T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2019/05/23/rebel-annoyance</id>
+		<content type="html">&lt;p&gt;Someone posted an article recently about how to create a “rebel alliance” in an organisation: how to identify rebels and build a support network for them so that they can drive transformation.&lt;/p&gt;
+
+&lt;p&gt;There are some real problems with the very idea of rebels, not least of which is an implicit acceptance that everything must already be so bad that people have to set themselves against what exists to do anything valuable. This binary perspective isn’t necessarily the healthiest starting point for change.&lt;/p&gt;
+
+&lt;p&gt;And potentially, identifying rebels and rewarding them is the beginning of making them special. And this group of special people — a group who demand a disproportionate amount of attention — is potentially mirroring the status quo rather than challenging it. It’s ultimately an alternative hierarchy.&lt;/p&gt;
+
+&lt;p&gt;Then there’s also the danger of making quite mundane change seem rebellious. In the article I read those things which marked out the rebels were often slightly different ways of working, or technology preferences. Are these the kinds of rebellions we should be championing? If we’re going to rebel at all what would be the truly worthwhile causes?&lt;/p&gt;
+
+&lt;p&gt;But perhaps the most damaging thing around the idea of rebels is the way in which it continues the kind of combative language that is all too prevalent in business already. Do we really want to couch things in terms of incumbents and rebels or are there better ways to think about these things?&lt;/p&gt;
+
+&lt;p&gt;Tensions and problem-finding can be powerful ways of making changes. But finding problems and bringing together people as some sort of invading force might do little more than exacerbate things, back people into corners, escalate. How else might we do this? How else might we describe what needs to be done and the people who can do it?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Design Begins at Home</title>
+		<link href="http://localhost:4000/2019/05/09/design-begins-at-home.html"/>
+		<updated>2019-05-09T00:00:00+01:00</updated>
+		<id>http://localhost:4000/2019/05/09/design-begins-at-home</id>
+		<content type="html">&lt;p&gt;Working with a small company on a service design project has made me revisit how even an organisation with a handful of staff can be broken in terms of daily functioning (let alone any strategic capabilities) and how important it is that design work start internally.&lt;/p&gt;
+
+&lt;p&gt;There is sometimes an assumption in service design that the customer focus is sufficient a driving force for change that it can help an organisation reorganise internally to become better. And yes, an organisation-wide focus on purpose can be a powerful catalyst for change.&lt;/p&gt;
+
+&lt;p&gt;But many of the functions of good design (e.g, research) are based on even more fundamental principles (e.g. caring, listening) and so there needs to be a stage before, or at least in parallel with this customer alignment. And this internal focus provides one of the safest spaces available to an organisation.&lt;/p&gt;
+
+&lt;p&gt;A place that can get this right for itself can get it right for the other people they serve. A place where staff can listen to each other and care about what they hear has a better chance of listening to customers. A place that can try new things internally has a better chance of building new things externally. A place that can serve itself has a better chance of serving others.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Substandard Work</title>
@@ -336,108 +456,6 @@ rel="alternate"/>
 &lt;p&gt;And most importantly it would be great if some of that understanding became embedded in our culture, so that when we&apos;re told a story about something in the press we can put it into context, maybe seek out the right information, relate it to other things. &lt;/p&gt;
 &lt;p&gt;How many of the worst periods in our history have exploited a lack of economic thinking? When we believe that the arrival of a few immigrants signals the collapse of our economy then something has gone very wrong.&lt;/p&gt;
 &lt;p&gt;I personally believe that economics is one of the best critical thinking subjects out there, and yet schools so often teach it as facts and figures, names and dates. We need people to come out of school able to take on the biggest issues we face, but we don&apos;t seem to be doing much to make that happen.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Design Units</title>
-		<link href="http://localhost:4000/2014/07/08/design-units.html"/>
-		<updated>2014-07-08T06:53:25+01:00</updated>
-		<id>http://localhost:4000/2014/07/08/design-units</id>
-		<content type="html">&lt;p&gt;The more complex the unit of design, the less we are likely to question it. Simple products can be easily evaluated; when a bottle opener doesn&apos;t work we&apos;re happy to point to its flaws. But we rarely do this with systems, organisations, governments.&lt;/p&gt;
-&lt;p&gt;We rely on our direct relationship with things to provide our opportunity to critique them. My nan&apos;s relationship with democracy often came down to which doorstopping man looked the &quot;nicest&quot;. That&apos;s not a criticism of her, it&apos;s simply a statement of how much mental energy we can all be bothered to expend on anything more abstract than that which we&apos;re shown.&lt;/p&gt;
-&lt;p&gt;Perhaps we judge our local government on whether our bins get collected. In democracy terms it&apos;s about as valid as the nice-looking man. In many cases this inability to think about anything bigger than our direct point of contact with something is used against us. Charities don&apos;t ask us to question whether the unit of a charity is the best way to help people in need, they just tell us the story of one person.&lt;/p&gt;
-&lt;p&gt;This blind acceptance of the core unit of design, whether it&apos;s a business or an entire system of democracy, changes over time. We&apos;re beginning to show a similar indifference to the fundamental existence of a whole new set of design units, from startups to platforms. And as with everything else we&apos;re falling for the actors without thinking about the play.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Subtractive Value</title>
-		<link href="http://localhost:4000/2014/07/04/subtractive-value.html"/>
-		<updated>2014-07-04T13:36:12+01:00</updated>
-		<id>http://localhost:4000/2014/07/04/subtractive-value</id>
-		<content type="html">&lt;p&gt;I was originally going to write something about a subtractive view of design, or rather how design should focus more on how to take things away than how to create. &lt;/p&gt;
-&lt;p&gt;After all, truly good designs simplifies, removes obstacles, eliminates problems. Good design brings clarity, reduces uncertainty. And yet we often think of design in terms of what we create, of the shiny newness. Whether it&apos;s the tangible output or the tools of the process we&apos;re always adding.&lt;/p&gt;
-&lt;p&gt;But even the most tangible of design objects, the prototype, is primarily concerned with subtraction; we prototype to reduce uncertainty, to take away the unknown. &lt;/p&gt;
-&lt;p&gt;It&apos;s easy to forget the core value of subtraction when so much of design is about creating, and there&apos;s a lot that could be written (and certainly has) about how to frame design in subtraction terms. What&apos;s more interesting, perhaps, is how subtraction could be more of a unifying framework for ways of working that intersect with design, such as the Agile and Lean approaches we&apos;ve been exploring, with others, more recently. &lt;/p&gt;
-&lt;p&gt;In each of these fields it&apos;s worth asking, &quot;what are we trying to take away?&quot; And in answering that question perhaps we get to a simpler set of principles through which to explore how we develop things of value in the best possible context. &lt;/p&gt;
-&lt;p&gt;In service design we are constantly trying to remove things: uncertainty around what to create, barriers to usage, walls between silos, misunderstanding of users&apos; needs. Many of these things apply to Agile approaches too. A focus on functioning outputs seeks to remove uncertainty in a similar way to the prototypes of design. Agile also works hard to remove the organisational barriers, to eliminate as much as is possible the obstacles to trust and shared purpose.&lt;/p&gt;
-&lt;p&gt;And with Lean, we&apos;re working hard reduce waste, to unblock whatever stands in the way of creating value. We&apos;re trying to remove the internal and external blocks, as much as internal and external is still a valid way of viewing things. &lt;/p&gt;
-&lt;p&gt;In everything that seeks to create value in the widest sense, from the people we make things for to the teams that help make them, the true focus should be subtraction. It&apos;s possible to dig deeper into it, create lists, explore frameworks, but that wasn&apos;t the aim of this post. It was something I was thinking about and wanted to start writing down. It would be good to know what others think. &lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Experiment and Strategy</title>
-		<link href="http://localhost:4000/2014/06/26/experiment-and-strategy.html"/>
-		<updated>2014-06-26T05:24:09+01:00</updated>
-		<id>http://localhost:4000/2014/06/26/experiment-and-strategy</id>
-		<content type="html">&lt;p&gt;The word &quot;experiment&quot; seems to have two, almost different meanings. One one hand we think of it as a one-off, radical thing; experimental art and music are out there, crazy, avant garde. The opposite of systematic, methodical.&lt;/p&gt;
-&lt;p&gt;On the other hand we have science. Experiments in science are a core process. They&apos;re how we do science and they&apos;re very much systematic and methodical.&lt;/p&gt;
-&lt;p&gt;Lean Startup reminded me of this apparent dichotomy. Lean Startup experiments are designed, methodical, iterative, repetitive (if done properly). In fact they become one of the only truly meaningful ways to learn anything, in the same way that babies learn: trying something new, making mistakes, trying something different. Human beings all grow up this way and then at some point in our lives most of us start to lose the will to experiment.&lt;/p&gt;
-&lt;p&gt;Eventually we start to see the experiment as something outside our normal behaviour, rather than the mode of our behaviour. If we&apos;re not careful we apply this outside view to everything in life. We forget that methodical concepts like strategy are heavily reliant on experiment. Rather than strategy being a known entity we execute, strategy is simply a framework for experiment, and what we do naturally as babies we need to design as adults.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Reality Friction</title>
-		<link href="http://localhost:4000/2014/06/03/reality-friction.html"/>
-		<updated>2014-06-03T18:16:58+01:00</updated>
-		<id>http://localhost:4000/2014/06/03/reality-friction</id>
-		<content type="html">&lt;p&gt;The last couple of weeks saw the sad demise of a really great app, How Do. It allowed you to take pictures of the steps involved in doing something interesting and leave some audio commentary along the way. It was a treasure trove of wonderful little tips and tricks, but sadly it&apos;s no more.&lt;/p&gt;
-&lt;p&gt;The thing is, I never properly used it. Yes, I browsed what was on there, and I had it installed on my phone. But never once did I leave a tip myself. I don&apos;t know what caused its founders to pull the plug but I&apos;m sure I wasn&apos;t the only one to like the idea without fully engaging.&lt;/p&gt;
-&lt;p&gt;When you&apos;re looking at your phone all the time, when it&apos;s your window on the world, it&apos;s very easy to use those apps that involve nothing more than your brain and your phone. There&apos;s little to separate a thought and a tweet. It&apos;s even easier to engage with something that starts and ends at the same interface; we can all retweet and we can all share links.&lt;/p&gt;
-&lt;p&gt;But when an app requires you to engage with the real world and create something that starts somewhere else, like when you&apos;re cooking, we end up with a sort of reality friction. We forget that the app exists. We remember when it&apos;s too late.&lt;/p&gt;
-&lt;p&gt;Marketing people grapple with a similar issue: Top of Mind. Companies like Coca Cola devote almost their entire marketing spend to one thing. When you go into a shop with a thirst they want you to think of Coke. At the crucial point they want you to associate Coke with Quenching. It&apos;s a split second decision; millions spent on a moment.&lt;/p&gt;
-&lt;p&gt;Most apps don&apos;t have that kind of budget, or the inclination to invest in what it takes to achieve that traditional ubiquity. So what do they do? Beyond the initial flurry of interest, how do they stay in our thoughts?&lt;/p&gt;
-&lt;p&gt;Recently I&apos;ve noticed more and more Push Notifications in Foursquare, a company that seems to be working on Top of Mind through direct action. And the technology works well for this purpose, however annoying it might be. GPS is the natural friend of Top of Mind for a geo-location app.&lt;/p&gt;
-&lt;p&gt;For many apps, however, there&apos;s a greater challenge. How do they know I&apos;m baking a special cake? How do they know I&apos;m tying a tricky knot? Technology gets us so far, like in the Foursquare example, but some of these challenges need deeper consideration.&lt;/p&gt;
-&lt;p&gt;If we&apos;re going to discover amazing things we need apps like How Do to thrive. It&apos;s not enough to know where someone is or what they&apos;re thinking. We want to engage vicariously with the physical world, the amazing things people can do, in ways that make us feel part of it. And yet it feels like we&apos;re still a long way off.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>The Walls of the Universe</title>
-		<link href="http://localhost:4000/2014/04/01/the-walls-of-the-universe.html"/>
-		<updated>2014-04-01T12:42:05+01:00</updated>
-		<id>http://localhost:4000/2014/04/01/the-walls-of-the-universe</id>
-		<content type="html">&lt;p&gt;There&apos;s an exercise called The Five Whys. You may have heard of it. The aim is to keep asking &quot;why?&quot; until you get back to the root of an issue. It&apos;s a good exercise; it teaches us not to accept face value, but it also makes an assumption. It almost makes us believe that we are capable of a broad perspective, that we can fully escape the context of something.&lt;/p&gt;
-&lt;p&gt;Last week I was in another country, talking to someone about education. I have a lot of conversations about education, some self-initiated, others through no fault of my own. My position on education is pretty clear: I think that school is fundamentally wrong. I think that subjects, lessons, teachers and grades comprise the worst possible way for children to learn.&lt;/p&gt;
-&lt;p&gt;Most of the time, when I&apos;m talking to people in the UK, I can get this point across relatively easily. Not everyone agrees with it but more people than you might imagine will happily consider the perspective.&lt;/p&gt;
-&lt;p&gt;Most people in the UK don&apos;t realise how easy it is to take their children out of school here. Many don&apos;t even realise it&apos;s possible. Any yet they&apos;re often very quick to accept the fact, and engage with the possibilities.&lt;/p&gt;
-&lt;p&gt;However, in those countries where schooling is compulsory it&apos;s a very different picture. What&apos;s most noticeable is that many of the people in those countries find it really difficult to engage with the unschooling perspective on education. It&apos;s almost like we hit a wall.&lt;/p&gt;
-&lt;p&gt;But this post isn&apos;t about education, it&apos;s about context. What fascinates me about people in places where home education is illegal is that it often seems to define their perspective on it. I&apos;m not generalising or saying it&apos;s true of everyone but the conversations I&apos;ve had, where we appear to reach a limit of understanding, a fundamental disconnect, seem to suggest some hard-wiring.&lt;/p&gt;
-&lt;p&gt;This will be true of people in the UK on other topics of course. There will be things that are so programmed into us that almost no amount of &quot;Five Whying&quot; will enable us to escape our preconceptions. This seems increasingly the case when we talk about &quot;digital&quot;.&lt;/p&gt;
-&lt;p&gt;Free will is an impossible concept. I was watching my daughter playing Flappy Bird on my phone and thinking about this stupid notion of &quot;Digital Natives&quot;. Beyond all the assumptions that Digital is Good and that The Web Will Save Us, there are more damaging justifications around children&apos;s relationship with technology.&lt;/p&gt;
-&lt;p&gt;When we talk about how much children are into screens and technology we forget that we&apos;ve created this context for them. In many cases screens are thoroughly absorbing for children purely because they&apos;re better than the rest of the crap we&apos;ve made for them. Ask yourself whether you&apos;d rather learn your times tables or play Minecraft. It doesn&apos;t mean that Minecraft is the future. It just means that times tables aren&apos;t.&lt;/p&gt;
-&lt;p&gt;So, sometimes we have to remember that we haven&apos;t made anything particularly brilliant; we&apos;ve just created a little escape valve. The things we think are brilliant only seem that way because we mentally can&apos;t escape the context we live in. But we do need to escape that context, whether it&apos;s there because of society, or law, or our democratic system, or our love of technology. Sometimes it&apos;s there just because the alternative is impossible to comprehend, like a universe with no end.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>The Lone Designer</title>
-		<link href="http://localhost:4000/2014/03/29/the-lone-designer.html"/>
-		<updated>2014-03-29T13:56:37+00:00</updated>
-		<id>http://localhost:4000/2014/03/29/the-lone-designer</id>
-		<content type="html">&lt;p&gt;One of the best graphic designers I ever met never used a computer. In fact he predominantly used a photocopier and pair of scissors. Once he&apos;d roughed out some ideas with cut and paste he&apos;d talk to other people to get everything into digital files; he&apos;d work with a typesetter, an artist, an illustrator.&lt;/p&gt;
-&lt;p&gt;He produced some great work, and it was real teamwork. But it wasn&apos;t just internal teamwork, it was client collaboration too. Everything began with a meeting. We&apos;d sit down together and work through the design as if we were both working on it. He&apos;d cut things out, stick them together. Scissors, sticky tape, pencils, democratic tools. We&apos;d look at typeface catalogues together, discuss colours.&lt;/p&gt;
-&lt;p&gt;Nothing was ever thrown over the wall. I didn&apos;t send him a brief and wait for something to come back. He didn&apos;t pass on a finished design to the typesetters. Projects remained in flux, part of a conversation, until the final piece of work was produced.&lt;/p&gt;
-&lt;p&gt;I&apos;ve thought more and more recently about how I want to continue this tradition in the small amount of graphic design work I do. And to help with that I&apos;ve been considering projects in four stages.&lt;/p&gt;
-&lt;h3&gt;1. Purpose&lt;/h3&gt;
-&lt;p&gt;Where does the purpose of graphic design come from? In many cases a client will decide that some work needs doing and have some idea of what the brief for that should be. This becomes enshrined in a document that forms the basis of the designer&apos;s work. But how likely is this to produce the right outcome?&lt;/p&gt;
-&lt;p&gt;A good designer will go back to a client with questions, attempt to clarify the brief. But how much is this ever a conversation and how much time is wasted when it isn&apos;t? This discussion, a step before anything visible is even produced, could be the most important part of the design process, so how do we ensure that it isn&apos;t just a handover?&lt;/p&gt;
-&lt;h3&gt;2. Paper&lt;/h3&gt;
-&lt;p&gt;Once the Purpose is established it might seem like the perfect time to sit down alone and design stuff. After all, designers are magicians. It&apos;s important that others don&apos;t see what goes on behind the scenes. Except that my fondest memories of working with a graphic designer involved sitting down together and producing material there and then.&lt;/p&gt;
-&lt;p&gt;Of course much of this was rough, photocopied drafts. But it gave us a shared understanding. It also saved a huge amount of time and the reason that when I took a course in graphic design I chose one without computers. This way of working can be really liberating.&lt;/p&gt;
-&lt;h3&gt;3. Pixels&lt;/h3&gt;
-&lt;p&gt;Things get more tricky when computers are involved. Much of the standard design software can show full screen, menu-free views of the work in progress so that the mysteries of digital design remain hidden away. We don&apos;t want people to see us nudging things around on the screen, experimenting when we should already know what we&apos;re doing.&lt;/p&gt;
-&lt;p&gt;But when we work together, look at the same things, we start to share an understanding of the tools we&apos;re using. Beyond static, visual design work, this can take us into other territories. What if we write code and edit websites together? How far can we move from the expert and proprietary technology model to the shared, open model?&lt;/p&gt;
-&lt;p&gt;Every job we do, everything we create for someone else, is an opportunity to share the tools and deepen the learning. It doesn&apos;t make everyone a graphic designer, but it does make graphic designers better, and better understood for what they specifically bring rather than what they are generally selling.&lt;/p&gt;
-&lt;h3&gt;4. Polish&lt;/h3&gt;
-&lt;p&gt;Surely here&apos;s where the designer should disappear, with some paper cutouts and rough Photoshop files, before returning with a shiny masterpiece? Except that there&apos;s huge opportunity at this point. The real craft of graphic design, the part that matters, is the attention to detail that leads to almost imperceptible tweaks.&lt;/p&gt;
-&lt;p&gt;Graphic designers who really care about what they do will obsess over minor differences in colour, typefaces, gradients, details. And in many ways it&apos;s these obsessions that form the basis of stronger client relationships. Sharing an understanding, and love, of why two ostensibly similar things are actually worlds apart is key to mutual trust and building something meaningful for the long-term.&lt;/p&gt;
-&lt;p&gt;I recently did a project with some graphic design students, getting them to work on new ideas for services and products. It was hard to get them away from their computers but when they weren&apos;t using Photoshop they were doing their best work.&lt;/p&gt;
-&lt;p&gt;The conversations I had with those students, their tutor, and many other people since has highlighted what a solitary profession graphic design can be, and how much better it can be when it isn&apos;t.&lt;/p&gt;
 </content>
 	</entry>
 	
