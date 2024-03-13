@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: street
-    size: 10
+    size: 11
 ---
