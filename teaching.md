@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching Biography
 ---
 Simon is a service designer, facilitator, trainer and learning designer with over two decades’ experience of working with government departments, commercial companies and charities. He focuses on systems thinking and service design as complementary approaches to organisational transformation and has particular skills in strategy, co-design and technology. 
 
