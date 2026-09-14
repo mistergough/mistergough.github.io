@@ -2,7 +2,6 @@
 	{% include header.html %}
 	{% include topbar.html %}
 	<body class="page">
-	<h2>{{ page.title }}</h2>
         {% if page.image %}<img src="{{ site.baseurl }}/images/{{ page.image }}">{% endif %}
     	{{ content }}
 	{% if page.comments %}

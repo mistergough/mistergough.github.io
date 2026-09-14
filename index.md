@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Hello
+id: home
 ---
 ![Alt text](/images/IMG_4529.jpeg "me in IKEA")
 
-*I'm Simon Gough—a designer, lecturer, writer, photographer, filmmaker and unschooler.*
+<em class="hello">I'm <em>Simon Gough</em>—a designer, lecturer, writer, photographer, filmmaker and unschooler.</em>
 
 ### Design
 I have almost twenty years’ experience of participatory design and teaching, mostly focused on service design and systems thinking but drawing on a whole range of adjacent fields, disciplines and skills. I've worked across private, public and third sector projects with fmcg companies, social enterprises, central government and charities, helping to collaboratively design hundreds of new organisations, products, services and projects.

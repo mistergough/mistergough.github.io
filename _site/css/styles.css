@@ -1,6 +1,6 @@
 html { background: #ddd; background-image: url("DSC00152.jpg"); background-size: 100% auto; background-attachment: fixed; }
 
-body { padding: 5%; line-height: 1.6; font-size: 1.5em; font-weight: 100; }
+body { padding: 5%; line-height: 1.4; font-size: 1.5em; font-weight: 100; }
 
 p { font-family: "calluna", serif; font-weight: 300; font-style: normal; }
 
@@ -19,6 +19,8 @@ h3 { font-size: 1.8em; margin: 1em 0 0.1em 0; line-height: 0.9em; text-transform
 h4 { font-size: 1.4em; margin: 1em 0 0.1em 0; line-height: 0.9em; text-transform: uppercase; letter-spacing: -0.05em; }
 
 em { font-family: "calluna", serif; font-weight: 300; font-style: italic; }
+
+em.hello { font-style: normal; font-size: 1.8em; line-height: 1.2em; display: block; margin: 0 100px 50px 0; }
 
 .number { font-family: "calluna", serif; font-weight: 300; font-style: italic; }
 
@@ -42,7 +44,7 @@ ul.gallery { list-style-type: none; margin: 0; padding: 0; }
 
 img { max-width: 100%; margin-top: 1em; }
 
-body.page img { max-width: 25%; float: right; margin: 0 0 1em 1em; }
+body#home img { position: absolute; right: -1.2em; top: -1.2em; border: solid 10px #fff; border-radius: 50%; box-shadow: -5px 5px 12px #ddd; width: 150px; margin: 0; }
 
 form { margin: 1em 0; }
 
@@ -50,7 +52,7 @@ input { width: 50%; font-size: 1em; padding: 0.5em; margin-bottom: 1em; }
 
 textarea { width: 100%; height: 5em; font-size: 1em; padding: 0.5em; margin-bottom: 1em; }
 
-#post-wrapper { margin: 5% auto; max-width: 860px; padding: 1em 2em 2em 2em; background: #fff; }
+#post-wrapper { margin: 5% auto; max-width: 860px; padding: 1em 2em 2em 2em; background: #fff; position: relative; }
 
 @media screen and (max-device-width: 1024px) { body { font-size: 0.9em; } }
 @media screen and (max-device-width: 768px) { body { font-size: 0.9em; } }
