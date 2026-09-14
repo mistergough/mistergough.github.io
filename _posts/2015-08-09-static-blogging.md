@@ -36,7 +36,7 @@ Once you have the basics working you can play around with design, structure and 
 
 ### CSS
 
-Jekyll has built in support for [CSS extension Sass](http://sass-lang.com/), which is well worth learning and using if you don't already. Of course, if you don't want to get into the design side at all you can just download and use ready made themes ([Jekyll Bootstrap](http://jekyllbootstrap.com/) is worth a look). You can even use the theme I've built here by cloning all the site files [from my own repository](https://github.com/mistergough/mistergough.github.io).
+Jekyll has built in support for [CSS extension Sass](http://sass-lang.com/), which is well worth learning and using if you don't already. Of course, if you don't want to get into the design side at all you can just download and use ready made themes ([Jekyll Bootstrap](http://jekyllbootstrap.com/) is worth a look).
 
 ### Markdown
 
@@ -49,12 +49,6 @@ The biggest drawback to Jekyll at this point is the lack of any good static comm
 ### Importing
 
 Moving a blog from another platform turned out to be easier than I expected. Jekyll has lots of [import extensions](http://import.jekyllrb.com/) for just about every major blogging system and moving posts here from Wordpress.com turned out to be pretty painless. The only snag turned out to be transferring images so if you have a lot of those you might need to put a bit more work in.
-
-### Feeds
-
-Site feeds turn out to be pretty simple too. You can use the [feed.xml](https://github.com/mistergough/mistergough.github.io/blob/master/feed.xml) template in my own repository without too much configuration or look around for other people's. There are plenty out there.
-
-So, if you like the look of this blog just take what you want and modify accordingly. I'd love to know how you get on.
 
 ### Difficulty
 
