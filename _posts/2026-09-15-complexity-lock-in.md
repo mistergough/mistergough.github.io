@@ -15,7 +15,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 comments: true
-image: 
+image: IMG_7030.jpg
 ---
 I use a handful platforms to build websites and have, historically, used many more. Every time I have a new project or want to revisit and refine an older one I always take a moment to survey the state of the art in site building. When it was time to renew my personal site I undertook the customary exploration and found some highly recommended frameworks (Astro and Tailwind if you’re interested).
 
