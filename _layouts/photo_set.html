@@ -5,6 +5,9 @@ layout: default
 {% assign num = page.photos.size %}
 
 <h2>{{ page.title }}</h2>
+
+<p>Click on any image to open a full-screen lightbox.</p>
+
 <ul class="gallery">
   {% for i in (1..num) %}
   <li>

@@ -24,7 +24,7 @@ I've been a lecturer, trainer and learning designer for almost two decades. Most
 Much of my core work involves elements of training, coaching and otherwise sharing the models and approaches I work with on a daily basis.
 
 ### Writing
-I love writing; the minimalism blog I started in 2009 with my wife was listed as an "inspiration" in the New York Times and since then I've written hundreds of blog posts, some of which are on this site. I've also written for trade publications, A Level books and academic journals. I'm currently pulling together some of the writing I started on the topic of "unschooling" (see below).
+In 2009 I started a minimalism blog with my wife. It was strangely popular for a while and even got picked up as a top ten blog in the new York Times. Since then I've written hundreds of blog posts, a very small number of which are on this site. I've also written for trade publications, A Level books and academic journals. I'm currently pulling together some of the writing I started on the topic of "unschooling" (see below).
 
 ### Photography and Film
 Photography has always been a big part of my life and I'm slowly developing a <a href="{{ site.url }}photos">portfolio</a> section on this site. More recently I've begun training in documentary <a href="{{ site.url }}film">filmmaking</a>. Telling visual stories is a critical part of my work and a keen interest.
