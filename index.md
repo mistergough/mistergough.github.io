@@ -12,7 +12,7 @@ I have almost twenty years’ experience of participatory design and teaching, m
 
 I'm a highly experienced facilitator who's worked with everyone from small teams to whole organisations, employing a variety of approaches: from unconferences and open space technology to design sprints and custom workshops.
 
-The majority of my work is carried out through [Redfront](http://redfront.design), where client work is balanced with "Explorations".
+The majority of my work is carried out through [Redfront](http://redfront.design), where client work is balanced with [Explorations](https://www.redfront.design/explorations).
 
 Our current Exploration is [Design and Economics](https://designandeconomics.com/) a collaboration with Mark Simpkins and others intended as a developing resource and series of events.
 
